@@ -1,0 +1,16 @@
+.unlockable-img-card:hover {
+  animation: scaleUp 0.1s ease-in-out forwards;
+}
+
+/* .unlockable-img-card:hover .unlockable-img {
+  display: none;
+} */
+
+@keyframes scaleUp {
+  0% {
+    scale: 1;
+  }
+  100% {
+    scale: 1.1;
+  }
+}

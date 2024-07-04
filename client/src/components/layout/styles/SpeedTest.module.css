@@ -1,0 +1,9 @@
+input:checked + .menu-label {
+  border: 2px solid #0284c7;
+  color: #0369a1;
+  font-weight: 700;
+
+  .svg-text {
+    fill: #0369a1;
+  }
+}

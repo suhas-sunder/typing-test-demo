@@ -1,0 +1,13 @@
+.error {
+  margin: auto;
+  padding: 0.2em 0.5em;
+  color: rgb(212, 51, 51);
+}
+
+input:invalid[focused="true"] {
+  border: 1px solid red;
+}
+
+input:invalid[focused="true"]:not(:placeholder-shown) + .error {
+  display: flex;
+}

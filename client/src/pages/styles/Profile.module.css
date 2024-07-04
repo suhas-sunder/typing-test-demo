@@ -1,0 +1,13 @@
+.profile-menu-input:checked + .profile-menu-tab,
+.profile-menu-tab:hover {
+  background-color: white;
+  color: #24548c;
+
+  .profile-menu-icon {
+    color: rgb(14 165 233);
+  }
+}
+
+.logout-btn:hover > .logout-icon {
+  color: #79fac5;
+}

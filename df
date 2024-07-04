@@ -1,0 +1,5637 @@
+[33mcommit ab24cc93329f353b15286971ad16601e25181935[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:11:23 2024 -0500
+
+    Update README.md
+
+[33mcommit 6eb67e0eee2df435756bf7a43d2e5202e26178ff[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:11:03 2024 -0500
+
+    Update README.md
+
+[33mcommit 2de47cbe1906a634d1a73dfec785088f4f7604c5[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:10:05 2024 -0500
+
+    Update README.md
+
+[33mcommit 6283a71adba19cccd3facdb7478115a486f5a1bb[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:09:27 2024 -0500
+
+    Update README.md
+
+[33mcommit ec542c8d21bc1e757ebc674a462917e40812ebaa[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:08:05 2024 -0500
+
+    Update README.md
+
+[33mcommit 6920b62ddb07e6c8f1268a87fd2e77a730cfd6f8[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:07:36 2024 -0500
+
+    Update README.md
+
+[33mcommit 067ff0034850be3db973f70e42676af37f492731[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:07:09 2024 -0500
+
+    Update README.md
+
+[33mcommit 7c75b8035e072cf51bfa22ec4c09b953ad9b1fbf[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:06:47 2024 -0500
+
+    Update README.md
+
+[33mcommit a377b26559b5675c88df9de49b435a5597aeb0cd[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:06:24 2024 -0500
+
+    Update README.md
+
+[33mcommit 7d2ba1e3554ae020732f86ce75d151e742a54390[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:05:33 2024 -0500
+
+    Update README.md
+
+[33mcommit 4dc732e3071cc37465ff3f95da96704349910be3[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:03:28 2024 -0500
+
+    Update README.md
+
+[33mcommit 057ceb5bef8ec27e3b86279c7732b526200094b7[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:03:03 2024 -0500
+
+    Update README.md
+
+[33mcommit 797f7b02ad71aa1b6cc41fd4459a12815e7ae9df[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:02:36 2024 -0500
+
+    Update README.md
+
+[33mcommit 18fbfb5f5f115b2e165fb0dfd525d43005369d4c[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 02:02:00 2024 -0500
+
+    Update README.md
+
+[33mcommit ed7febb3c081ee80f0c4ef4271ff7bfa69d6eb4a[m
+Merge: 47df689 e9a1eec
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 21 01:59:42 2024 -0500
+
+    Merge pull request #235 from suhas-sunder/feat_articles
+    
+    feat: guest login
+
+[33mcommit e9a1eecf3fe9c949a8c7e8447e203aff296794e2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Feb 21 01:57:44 2024 -0500
+
+    feat: guest login
+    
+    -Add guess login button to login page that allows users to login as a guest and explore all features of the website.
+
+[33mcommit 47df68967c524dcee9a2c2bded43498320d98d36[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Feb 18 21:27:27 2024 -0500
+
+    Update README.md
+
+[33mcommit 111b1f2e5cb5be0599f20b819af4733c40d13d33[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Feb 18 21:26:29 2024 -0500
+
+    Update README.md
+
+[33mcommit f5c43848e49e105ba51e8832b08d510a9102ca20[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Feb 18 21:25:52 2024 -0500
+
+    Update README.md
+
+[33mcommit 24f1a7defd0202e406c181fcdf1f801c6a6d9bf5[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Feb 18 21:25:19 2024 -0500
+
+    Update README.md
+    
+    Project overview & challenges
+
+[33mcommit d0688a9c24195e3628fe9c6f37e8ea75f57e3416[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:31:47 2024 -0500
+
+    Update README.md
+
+[33mcommit 183c3a69024c01d8aafc172cb055d4cd10e2d48e[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:30:26 2024 -0500
+
+    Update README.md
+
+[33mcommit 426e0f2e2ada89c8f93311e532694924507d8514[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:29:19 2024 -0500
+
+    Update README.md
+
+[33mcommit 4ee780891f6ae0f83ad81c4cb080317c9661cabd[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:28:40 2024 -0500
+
+    Update README.md
+
+[33mcommit c73cc3ad23a2e4087e8eec48e2bafaed6b6f1fd8[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:26:19 2024 -0500
+
+    Update README.md
+
+[33mcommit 908f77bb5c509d3e459f6b4f2e8148921a216ad4[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:16:12 2024 -0500
+
+    Update README.md
+
+[33mcommit 91eba775cc570dfde79414610c32bc3f1a55d710[m
+Merge: 757a92b 9ac06e1
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:08:42 2024 -0500
+
+    Merge pull request #234 from suhas-sunder/feat_articles
+    
+    fix: Lightouse LCP error
+
+[33mcommit 9ac06e1360d351595df654262ba5b17172d66cbe[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Feb 14 12:07:52 2024 -0500
+
+    fix: Lightouse LCP error
+    
+    -Fix Lighthouse NO_LCP error by starting fade-in animation opacity at 1 instead of 0.
+
+[33mcommit 757a92b857be83005edb20f7fa913c7dd6d42199[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Feb 11 01:55:12 2024 -0500
+
+    Update README.md
+
+[33mcommit 678946669b7b8f53f10c845d5bf063c803dbdc33[m
+Merge: 0ef2071 2304f62
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Feb 9 22:13:02 2024 -0500
+
+    Merge pull request #233 from suhas-sunder/feat_articles
+    
+    Feat articles
+
+[33mcommit 2304f6217d7d052736f8729b3f0a7156963011a4[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Feb 9 21:57:11 2024 -0500
+
+    fix: failing tests
+    
+    -Fix failing tests for login form, test time options, game over menu, header dashboard, main menu, and test score.
+
+[33mcommit fac3d7eda283bd3bb3edc955a22d829797b90fd7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Feb 2 13:42:36 2024 -0500
+
+    fix: tests
+    
+    -Fix all failing tests.
+
+[33mcommit 0ef2071e6f7cc993ae324d307467ff46dea80a53[m
+Merge: f9fd3e2 fa49906
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 19 15:45:15 2024 -0500
+
+    Merge pull request #232 from suhas-sunder/feat_articles
+    
+    Feat articles
+
+[33mcommit fa49906be79aef412ab933017c6c8c92561c3526[m
+Merge: c9f45c8 95c709c
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 19 15:43:01 2024 -0500
+
+    Merge branch 'feat_articles' of https://github.com/suhas-sunder/typing-test-app into feat_articles
+
+[33mcommit c9f45c8e94346646f7cc56a44c80695b537592b7[m
+Merge: 894dea3 b0d04f2
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 19 15:39:54 2024 -0500
+
+    Merge branch 'feat_articles' of https://github.com/suhas-sunder/typing-test-app into feat_articles
+    
+    # Conflicts:
+    #       client/src/App.tsx
+
+[33mcommit 95c709cd72cf3ed5b143428beec5f74c08a4fa2d[m
+Merge: 894dea3 b0d04f2
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 19 15:39:54 2024 -0500
+
+    Merge branch 'feat_articles' of https://github.com/suhas-sunder/typing-test-app into feat_articles
+    
+    # Conflicts:
+    #       client/src/App.tsx
+
+[33mcommit 894dea398dc2b078952b084c12393ba3980e63a0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 19 13:21:33 2024 -0500
+
+    refactor: layout effect
+    
+    -Add layout effect where needed to improve load speed. -Add logic to stop profile image from being replaced in state on page change when the image URL is the same.
+
+[33mcommit b0d04f23444553966d4d7748442d1c6194f5f522[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 19 13:21:33 2024 -0500
+
+    refactor: layout effect
+    
+    -Add layout effect where needed to improve load speed. -Add logic to stop profile image from being replaced in state on page change when the image URL is the same.
+
+[33mcommit f9fd3e28c7312a0301546a8c2b5bd9f9ffb038e0[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 19 03:46:43 2024 -0500
+
+    Update README.md
+
+[33mcommit d60b34e73a36d65c6a969f481db4871fc5fb1db0[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 19 03:42:49 2024 -0500
+
+    Update README.md
+
+[33mcommit fd4808cff771dde2bb128ac56e0d61de0d0d16d4[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 19 03:42:15 2024 -0500
+
+    Update README.md
+
+[33mcommit 6da5fa9f894e19030ebcdcd4c3d25fe17f486d34[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 17 17:02:47 2024 -0500
+
+    refactor: start menu & faq
+    
+    -Refactor FAQ page and all related links to create an articles page instead. -Move text fetching/generation logic to Start Menu again, but this time generate text when user hovers over the menu. Disable start test button until text is available.
+
+[33mcommit df346782ecca078e1504a837b967c392e1656433[m
+Merge: 522c02b ce39045
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Jan 17 16:37:13 2024 -0500
+
+    Merge pull request #231 from suhas-sunder/feat_games
+    
+    Feat games
+
+[33mcommit ce390450a1813bee06d0736cb31261e6bf6fc8e2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 17 16:36:49 2024 -0500
+
+    fix: text loading issue
+    
+    -Moved text loading logic back to main menu because loading text when user hovers over the start button sometiems loads the text too late. Since the start button also submits the form which uses the text to generate new text based on test settings, it creates a bug where the test doesn't track user inputs.
+
+[33mcommit 18e4865e1ed89bde2d8e90ba50cc4fd33262ac6b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 20:19:03 2024 -0500
+
+    feat: generate full text
+    
+    -After fetching an article, format it into a single paragraph to create enough text for the typing speed test.
+
+[33mcommit ec953c4f677af6820cbfd2f3a5a6fa2c347a87a0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 19:32:51 2024 -0500
+
+    refactor: generate text
+    
+    -Fetch text from API only when user hovers over start test button so that the API isn't called unnecessairly, each time the page reloads.
+
+[33mcommit 79eaab240c37b9d93f93404e320bf9c14dc604fe[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 17:29:34 2024 -0500
+
+    feat: generate text from API
+    
+    -Generate text for typing test using text fetched from API.
+
+[33mcommit fb0f890771051e4fed6c7b10a15f80a06e7908a8[m
+Merge: a3a72f4 f1e8c27
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 13:57:45 2024 -0500
+
+    Merge branch 'feat_games' of https://github.com/suhas-sunder/typing-test-app into feat_games
+
+[33mcommit a3a72f4d3727cdef8643f9e7d53e489045a1e05d[m
+Merge: 1c45269 51cd29a
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 13:55:16 2024 -0500
+
+    Merge branch 'feat_games' of https://github.com/suhas-sunder/typing-test-app into feat_games
+    
+    # Conflicts:
+    #       client/src/components/layout/HeaderDashboard.tsx
+
+[33mcommit f1e8c27b954a1a59b8c4718b77ff6d6f26ef5dba[m
+Merge: 1c45269 51cd29a
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 13:55:16 2024 -0500
+
+    Merge branch 'feat_games' of https://github.com/suhas-sunder/typing-test-app into feat_games
+    
+    # Conflicts:
+    #       client/src/components/layout/HeaderDashboard.tsx
+
+[33mcommit 1c452694001f4154a1a189f3f8f21efe920a2df3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 13:53:44 2024 -0500
+
+    refactor: level & milestone calculation
+    
+    -Create a ulitilty function that calculates the current level and milstone for next level based on the users total score. -Refactor header dashboard and apply calculate level milestone function.
+
+[33mcommit 51cd29a58d3e6d061d6cc6e624753f1670592f73[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 16 13:53:44 2024 -0500
+
+    refactor: level & milestone calculation
+    
+    -Create a ulitilty function that calculates the current level and milstone for next level based on the users total score. -Refactor header dashboard and apply calculate level milestone function.
+
+[33mcommit 522c02bed452358866b9de0cbae657deabfc80c3[m
+Merge: 74e97a1 4747d28
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Jan 15 00:54:16 2024 -0500
+
+    Merge pull request #230 from suhas-sunder/feat_games
+    
+    Fetch JSON
+
+[33mcommit 4747d2835a66c668f3c4f2c7e16efd3e319ffbf9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Jan 15 00:52:56 2024 -0500
+
+    feat: fetch text
+    
+    -Add utility function that generates text by fetching and processing JSON file from external endpoint. -Add logic to successfully fetch JSON data from endpoint randomly. -Convert all .tsx utility functiosn to .ts where JSX is not required.
+
+[33mcommit ea3f508f8979e31d2737cc68a692b1b6a083d002[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Jan 13 04:00:39 2024 -0500
+
+    refactor: Add comments
+    
+    -Add comment to each component to identify which component it is being used by to make it easier to track.
+
+[33mcommit 74e97a1ec8d2790544d4c11c0e0af11fd4d870dc[m
+Merge: 81dd1d3 b39ce8b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:57:10 2024 -0500
+
+    Merge pull request #229 from suhas-sunder/feat_games
+    
+    fix: image format
+
+[33mcommit b39ce8bfe90f4a9168e94ea8c7ee5794c8d636fe[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:56:42 2024 -0500
+
+    fix: image format
+    
+    -Replace .png with .wpeg for wpeg image for home page section.
+
+[33mcommit 81dd1d3073139a27f90d0bf30a3a6a9e15e0cae3[m
+Merge: 1b632ff 466156d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:53:06 2024 -0500
+
+    Merge pull request #228 from suhas-sunder/feat_games
+    
+    refactor: images
+
+[33mcommit 466156d85d33d9ca49b69a37d00520ec6eb96109[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:52:39 2024 -0500
+
+    refactor: images
+    
+    -Replace all images with cloud image url.
+
+[33mcommit 1b632ff67cc645d3f7754a97da94a61c2c2a4cfc[m
+Merge: e279f9e 8c253e0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:38:23 2024 -0500
+
+    Merge pull request #227 from suhas-sunder/feat_games
+    
+    fix: page speed issues
+
+[33mcommit 8c253e02043e7280f489af652414b871808e6cbe[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:37:56 2024 -0500
+
+    fix: page speed issues
+    
+    -Lazy load non-critical home page images. -Remove unused images.
+
+[33mcommit e279f9ee211e45efc344310d7e0d70d2afa77ebf[m
+Merge: 3d4e9e7 5bf56ec
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:30:44 2024 -0500
+
+    Merge pull request #226 from suhas-sunder/feat_games
+    
+    feat: better images
+
+[33mcommit 5bf56ec6fd1f9728db69643ccb1b47c10e03e784[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Jan 12 01:30:06 2024 -0500
+
+    feat: better images
+    
+    -Replace existing images with better quality images. -Size images appropriately for each section. -Replace saved image imports with image url on cloud storage.
+
+[33mcommit 3d4e9e77c00d4f2c97cb4e5bc714c69e3df74131[m
+Merge: 969fd5b 052216c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Jan 11 03:10:32 2024 -0500
+
+    Merge pull request #225 from suhas-sunder/feat_games
+    
+    feat: update profile image
+
+[33mcommit 052216c8fadcad472c6c2f6d4f8f08633fa1f7ef[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Jan 11 03:09:54 2024 -0500
+
+    feat: update profile image
+    
+    -Update profile image on nav bar and profile settings page when user changes image.
+
+[33mcommit 969fd5ba59fe0d16441f7a693f9b948fc772f4d9[m
+Merge: 7ff3d42 f52f0d7
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Jan 11 02:40:52 2024 -0500
+
+    Merge pull request #224 from suhas-sunder/feat_games
+    
+    fix: type error
+
+[33mcommit f52f0d7700fb704da9277cb2ab5f1e1afd9dec28[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Jan 11 02:40:29 2024 -0500
+
+    fix: type error
+
+[33mcommit 7ff3d4234d4ab02d292b4b56d9078fdeb032576a[m
+Merge: b38c832 8bc122a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Jan 11 02:40:07 2024 -0500
+
+    Merge pull request #223 from suhas-sunder/feat_games
+    
+    Feat: Profile image
+
+[33mcommit 8bc122a2dc413c63be43c15f8856a7690a49aa5a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Jan 11 02:34:46 2024 -0500
+
+    feat: update profile header
+    
+    -Fetch saved profile image pathname from database if it exists and use it to set the home page header image. -Save fetched data to image context provider. -Add image context provider to app.tsx. -Update image context when profile image is changed.
+
+[33mcommit 19604e9bd5d853f72a88d12a8cf97f4ccabb4122[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Jan 11 01:44:33 2024 -0500
+
+    fix: server errors
+    
+    -Fix variable types and CRUD request server code that were throwing server errors when trying to perform CRUD operations on difficulty settings and image data.
+
+[33mcommit 490b78d07eb29ae4f560a59857116829d98e5bd9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 10 23:09:17 2024 -0500
+
+    feat: save image data
+    
+    -Create CRUD api endpoints on server for image pathnames and hex code. -Create component that gets saved image data from db. -Create an image provider to manage image data globally.
+
+[33mcommit b38c8325447f099be76725c2dd89801d076bb0ba[m
+Merge: 62bab41 351418d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Jan 10 00:39:21 2024 -0500
+
+    Merge pull request #222 from suhas-sunder/feat_games
+    
+    Feat games
+
+[33mcommit 351418d9cb5039e34a85a17bc7675c125f4d5cc2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 10 00:36:25 2024 -0500
+
+    feat: profile images
+    
+    -Create a component that renders a list of all profile image from an array of objects. -Edit all relevant components with profile images to adjust for new image size.
+
+[33mcommit cb32db1800ec9b1b3fac01d32aa8617674c21ebb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 9 02:02:50 2024 -0500
+
+    fix: weekly date change
+    
+    -Fix issue with calcualting weekly date change where the month was being displayed incorrectly when the years change.
+
+[33mcommit 62bab4106cf8624c2f73894bc3bb2036d431abce[m
+Merge: ce812d7 6eb400d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Jan 9 01:28:25 2024 -0500
+
+    Merge pull request #221 from suhas-sunder/feat_games
+    
+    fix: build error
+
+[33mcommit 6eb400dd953a9c3fc4ccb507d9c3b173cf663f76[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 9 01:27:46 2024 -0500
+
+    fix: build error
+    
+    -Fix build error caused by wrong letter case for import file name.
+
+[33mcommit ce812d706c83ad92b8c547f6ac54d6f91b58e2a3[m
+Merge: 4ed9384 e2b4921
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Jan 9 01:25:52 2024 -0500
+
+    Merge pull request #220 from suhas-sunder/feat_games
+    
+    Feat games
+
+[33mcommit e2b49212fc913489e09088fd3e188ac50237760d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 9 01:22:18 2024 -0500
+
+    fix: home pg height
+    
+    -Adjust skeleton page height for home page to remove unwanted white gap under call to action banner.
+
+[33mcommit 77c61b805ab4b7bdc1afc35922f10d3a97c3c6dc[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 9 01:18:16 2024 -0500
+
+    fix: first showcase anim
+    
+    -Fix colour palette cycling animation in first showcase.
+
+[33mcommit 3e76cadaf07ac09b7d55670df5285c6fd87880cd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 9 01:03:58 2024 -0500
+
+    refactor: second showcase
+    
+    -Map showcase data instead of hardcoding each element.
+
+[33mcommit fd13c667c92cef98c49a50cf7fd2da380895ad36[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Jan 9 00:12:08 2024 -0500
+
+    refactor: call to action
+    
+    -Map icons and title instead of hard coding each element.
+
+[33mcommit 5359977eac98eed1e25e6254b74ecd1f3d6624d0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Jan 8 23:46:39 2024 -0500
+
+    refactor: landing page
+    
+    -Move second showcase and call to action sections to it's own component to be refactored later.
+
+[33mcommit b49f345814de5339eb28aa07a75f3e2037c21bb9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Jan 8 23:41:36 2024 -0500
+
+    refactor: landing page
+    
+    -Refactor first section of landing page to be less redundant by mapping object array instead of hard coding each element. -Create component to house first section and colour changing logic.
+
+[33mcommit 4ed938477dfe58ee5275f3a632c4e679e51ab9ed[m
+Merge: 1f4152b d34121d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Jan 7 23:23:54 2024 -0500
+
+    Merge pull request #219 from suhas-sunder/feat_games
+    
+    fix: build error
+
+[33mcommit d34121d08722621375dec14e0d1068cc9978e323[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Jan 7 23:23:12 2024 -0500
+
+    fix: build error
+    
+    -Remove unused imports from test file.
+
+[33mcommit 1f4152bc830f3815ef1dd6ef29954342ce7629c2[m
+Merge: d70552b 4c60cd4
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Jan 7 20:12:01 2024 -0500
+
+    Merge pull request #218 from suhas-sunder/feat_games
+    
+    Feat games
+
+[33mcommit 4c60cd4fa70da34e1d68f14b56653422e6fc314a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Jan 7 20:11:22 2024 -0500
+
+    feat: landing pg imgs
+    
+    -Add appropriate images to all sections in landing page.
+
+[33mcommit d4b461ac31579b30a691a454d6968ddaea57fc03[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 3 23:54:37 2024 -0500
+
+    test: fix all failing
+    
+    -Disable failing tests that need to be addressed in the future. -Fix all failing tests.
+
+[33mcommit d70552b4ccd1fce041e05b4192cdbc1ec3c41ea2[m
+Merge: 494bb7a 0a203ac
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Jan 3 23:46:59 2024 -0500
+
+    Merge pull request #217 from suhas-sunder/feat_games
+    
+    Feat games
+
+[33mcommit 0a203ac7ab9fb3ae4ef01ebe8c641d2bce554e92[m
+Merge: 470699e 900c04e
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 3 23:45:31 2024 -0500
+
+    Merge branch 'feat_games' of https://github.com/suhas-sunder/typing-test-app into feat_games
+
+[33mcommit 470699ed32aa34d1923f4b86a83ba3cfbe613164[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Jan 3 23:45:19 2024 -0500
+
+    test: fix failing tests
+    
+    -Hide failing tests related to useContext api, as this will be addressed in the future. -Fix failing tests on app component.
+
+[33mcommit 494bb7abacf14f0201f21011ab73eca3e198b19e[m
+Merge: 4adbe49 900c04e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 17:05:25 2023 -0500
+
+    Merge pull request #216 from suhas-sunder/feat_games
+    
+    Feat games
+
+[33mcommit 900c04ed3342d0d34e5c30f6f7e9c35a874a2955[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 17:04:03 2023 -0500
+
+    Update README.md
+
+[33mcommit 57c78b30290972e5a08a483f810c192cfcd57f4d[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 17:03:22 2023 -0500
+
+    Update README.md
+
+[33mcommit 15ce6b2946820cdd8910d31b48009588279f89f4[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 16:59:39 2023 -0500
+
+    Update README.md
+
+[33mcommit 0c2f3cedc0c1eba0fdb17176358bcd314bb98eff[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 16:56:30 2023 -0500
+
+    Update README.md
+
+[33mcommit 611ec8112d7ef67d43819a2becb703bd9c88bc91[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 16:55:25 2023 -0500
+
+    Update README.md
+
+[33mcommit 4adbe49ddd6d0ca65f8c2c3c3560d8ac27868a47[m
+Merge: e626673 374c98d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 30 16:53:28 2023 -0500
+
+    Merge pull request #215 from suhas-sunder/feat_games
+    
+    Merge pull request #214 from suhas-sunder/master
+
+[33mcommit 374c98de2a608e37c6b2a75a696c7044efff4a0a[m[33m ([m[1;31morigin/feature_authentication[m[33m, [m[1;32mfeature_authentication[m[33m)[m
+Merge: 8b978ef e626673
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 18 02:31:16 2023 -0500
+
+    Merge pull request #214 from suhas-sunder/master
+    
+    Update with master
+
+[33mcommit e62667301a9e2998bead8f6e6ae5e8fa1827ace5[m
+Merge: 22f2b41 640a617
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 18 02:28:53 2023 -0500
+
+    Merge pull request #213 from suhas-sunder/feature_data_management
+    
+    style: login & register
+
+[33mcommit 640a617be77d0620e74e379ef0015b1a9aed2a47[m[33m ([m[1;31morigin/feature_data_management[m[33m, [m[1;32mfeature_data_management[m[33m)[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 18 02:28:26 2023 -0500
+
+    style: login & register
+    
+    -Add styling to login and register page. -Change password input type to password instead of text.
+
+[33mcommit 22f2b41ae57dc1c684264c55c9a0aa3f3679788f[m
+Merge: 91ab9f0 aa0c887
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 18 01:16:04 2023 -0500
+
+    Merge pull request #212 from suhas-sunder/feature_data_management
+    
+    fix: loading home page
+
+[33mcommit aa0c887ed363e7699a9a7584518d4fb92f7012d7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 18 01:12:00 2023 -0500
+
+    fix: loading home page
+
+[33mcommit 91ab9f0cf2363bc528251288c37790ae7dd42b01[m
+Merge: 62c48a4 ebf5710
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 18 00:42:28 2023 -0500
+
+    Merge pull request #211 from suhas-sunder/feature_data_management
+    
+    fix: load nav and home
+
+[33mcommit ebf57104d19442e7e61a6b57ab7366feebfbdaae[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 18 00:42:09 2023 -0500
+
+    fix: load nav and home
+    
+    -Load home and nav components normally to prevent render delay.
+
+[33mcommit 62c48a472caa973dd25cdfa7b0ef1b32696eedd1[m
+Merge: deb0fbb 0c7ef06
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 18 00:38:52 2023 -0500
+
+    Merge pull request #210 from suhas-sunder/feature_data_management
+    
+    fix: load nav and home
+
+[33mcommit 0c7ef065b0f364c6c9915117c024d79fb1e4220d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 18 00:38:38 2023 -0500
+
+    fix: load nav and home
+    
+    -Load home and nav components normally to prevent render delay.
+
+[33mcommit deb0fbbdbcf9c300e49ebb0e70c1ffa67fb79594[m
+Merge: 9795069 220762a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 18 00:32:57 2023 -0500
+
+    Merge pull request #209 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 220762ae2d4d754f0f001153153505ef7cc7be6c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 18 00:32:15 2023 -0500
+
+    fix: poor loading
+    
+    -Don't load/preload main page content manually since it causes render delay.
+
+[33mcommit 95bb6f3f3fdb8951e056c654965f12ad2e928e5d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 23:51:58 2023 -0500
+
+    style: weekly date changer
+    
+    -Add fixed width and styling so that the date menu doesn't shift when date changes.
+
+[33mcommit 9795069293559fc870e18f9b5a83c8f878765e36[m
+Merge: 932f994 9b7e974
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 23:32:47 2023 -0500
+
+    Merge pull request #208 from suhas-sunder/feature_data_management
+    
+    fix: preload game over menu
+
+[33mcommit 9b7e9745163de27599054ca9ad28c121fcb0f716[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 23:32:18 2023 -0500
+
+    fix: preload game over menu
+
+[33mcommit 932f994b5d0099c504902edc38b66d595d1f6c49[m
+Merge: e0dccc8 023d3d1
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 23:07:07 2023 -0500
+
+    Merge pull request #207 from suhas-sunder/feature_data_management
+    
+    fix: failing preloads in dev mode
+
+[33mcommit 023d3d124323775bd3fe94515f20f9159d6ffeb0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 23:06:21 2023 -0500
+
+    fix: failing preloads in dev mode
+
+[33mcommit e0dccc8d2e5757540bb67041bd7c216feab8fe5f[m
+Merge: 8d549bf 7f76b42
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 22:49:04 2023 -0500
+
+    Merge pull request #206 from suhas-sunder/feature_data_management
+    
+    feat: preload components
+
+[33mcommit 7f76b42fa7f202891d9eae246f6a008471c1f35b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 22:48:08 2023 -0500
+
+    feat: preload components
+    
+    -Preload or load components on render to reduce overall page content load time.
+
+[33mcommit 8d549bf34890c5e7b881e607e307ff917c963177[m
+Merge: e071d85 fbff83a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 19:18:58 2023 -0500
+
+    Merge pull request #205 from suhas-sunder/feature_data_management
+    
+    refactor: preload components
+
+[33mcommit fbff83a3639028606e1fab167bf968384e27029c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 19:17:52 2023 -0500
+
+    refactor: preload components
+
+[33mcommit e071d85779b58df9e8a5265e9a2a2f7175ddcf71[m
+Merge: 8cec15a 9022e76
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 18:42:02 2023 -0500
+
+    Merge pull request #204 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 9022e761a9ee8d4ea5a76875a581914c31a00f07[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 18:39:05 2023 -0500
+
+    fix: speed test
+    
+    -Fix wrong text being displayed on restart. -Fix time not being reset on test restart.
+
+[33mcommit 90ca139cb5fb7f1ff8a73af957e61caad88634ac[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 18:12:32 2023 -0500
+
+    feat: date change
+    
+    -Add logic to implement weekly date change. -Display date for weekly summary based on date change.
+
+[33mcommit 5d73a49d5dbb3f2a6f03edc31e7602d851405ffb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 17:04:31 2023 -0500
+
+    style: header dashboard
+    
+    -Add styling to adjust for inconsistencies in mobile responsive design.
+
+[33mcommit 8cec15a3c1de80b6d319514eb6fe1dbf7669ea7d[m
+Merge: 2bb0c0c 7c9b16c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 16:41:54 2023 -0500
+
+    Merge pull request #203 from suhas-sunder/feature_data_management
+    
+    feat: calculate level
+
+[33mcommit 7c9b16c0771f4e8f72109da7dc3ba11309f8a874[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 16:40:06 2023 -0500
+
+    feat: calculate level
+    
+    -Calculate and display level based on total score. -Calculate and display score to next milestone based on total score.
+
+[33mcommit 2bb0c0c0b3523e343c8ad0b9bfd55791448b1902[m
+Merge: 192cd93 fc649ec
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 15:22:18 2023 -0500
+
+    Merge pull request #202 from suhas-sunder/feature_data_management
+    
+    styling: mobile responsive header
+
+[33mcommit fc649ece37eb838bfa160a99068f2f0a0a5aab47[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 15:21:08 2023 -0500
+
+    styling: mobile responsive header
+    
+    -Style header dashboard to be mobile responsive.
+
+[33mcommit 192cd93cf5f6b8a7651db10da86dbe58d4bcea79[m
+Merge: da0687b 4a7f5d2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 14:17:38 2023 -0500
+
+    Merge pull request #201 from suhas-sunder/feature_data_management
+    
+    fix: mobile nav
+
+[33mcommit 4a7f5d25976f10d8a41e7d3b583e6d667a43e123[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 14:17:21 2023 -0500
+
+    fix: mobile nav
+    
+    -Add high z-index to prevent mobile nav being hidden under other elements.
+
+[33mcommit da0687bfde71687e68399338e0f0e5f6dcdd3b1d[m
+Merge: 5915ccb 6275e38
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 14:11:24 2023 -0500
+
+    Merge pull request #200 from suhas-sunder/feature_data_management
+    
+    feat: nav and footer fixed height
+
+[33mcommit 6275e38b83a32f52e063e17789f3808dd144ac5a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 14:11:10 2023 -0500
+
+    feat: nav and footer fixed height
+    
+    -Add fixed height for nav and footer before it is loaded so that page content doesn't shift.
+
+[33mcommit 5915ccbf487e766185a9e674a06c42ddd461f3f4[m
+Merge: 10ffc84 5afe0d2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 13:57:31 2023 -0500
+
+    Merge pull request #199 from suhas-sunder/feature_data_management
+    
+    fix: issues with preloading imports
+
+[33mcommit 5afe0d2a997662c169bcdf0a060cd9dc0ee8213c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 13:57:17 2023 -0500
+
+    fix: issues with preloading imports
+
+[33mcommit 10ffc849c65b520f635b3b48ceef8bae9cf08023[m
+Merge: 4c2eda7 b939a29
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 13:13:35 2023 -0500
+
+    Merge pull request #198 from suhas-sunder/feature_data_management
+    
+    feat: defer load or preload imports
+
+[33mcommit b939a2947f0196ef58071091e15740542776b41f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 13:12:57 2023 -0500
+
+    feat: defer load or preload imports
+
+[33mcommit 4c2eda723e2f9d8ae0a56b989270289516bb356f[m
+Merge: 5ee38e7 b3ee3e2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 13:01:38 2023 -0500
+
+    Merge pull request #197 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit b3ee3e2f082a6d9a9065128c2835d372adfa54bc[m
+Merge: aa86852 922f858
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 13:01:12 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit aa868527a95fb589bfb1f6a16dbb295cc4b1fda6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 12:59:53 2023 -0500
+
+    fix: google analytics load time
+
+[33mcommit 922f85882a0219cbf18ff5a94c39465aea44d4ec[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 12:59:53 2023 -0500
+
+    fix: google analytics load time
+
+[33mcommit b01edc37aaebdc139006d05182a4ab4eed6d43ac[m
+Merge: 077fd47 a0995ef
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 02:34:01 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit 077fd47d4a9882e59f6cf6ff3560d114f82a5ba5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 02:33:14 2023 -0500
+
+    refactor: stats provider
+    
+    -Refactor stats provider so that it only keeps track of data that is needed globablly.
+
+[33mcommit a0995efc486498054a83dc2a10e9f8cad1ac7f31[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 02:33:14 2023 -0500
+
+    refactor: stats provider
+    
+    -Refactor stats provider so that it only keeps track of data that is needed globablly.
+
+[33mcommit c86515d0598f78c0629282a90992a67e11f939b0[m
+Merge: 16686d1 2fe7206
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 01:53:34 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit 16686d10a6c5596ced6d8f648af7317352d442c5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 01:46:29 2023 -0500
+
+    refactor: test score
+    
+    -Refactor test score calculations for better readability.
+    -Create utility function to calculate test score.
+
+[33mcommit 2fe7206091134b85e0640e3d4955a10bca5cfda7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 01:46:29 2023 -0500
+
+    refactor: test score
+    
+    -Refactor test score calculations for better readability.
+
+[33mcommit 5ee38e76b150d1f6d6b2a91e49cecc55a56badb8[m
+Merge: 78104c3 e174e41
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 01:37:40 2023 -0500
+
+    Merge pull request #196 from suhas-sunder/feature_data_management
+    
+    fix: hide stats menu on game over
+
+[33mcommit e174e4152f06ab25c57483273d039153c281db1a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 01:37:22 2023 -0500
+
+    fix: hide stats menu on game over
+
+[33mcommit 78104c3b734afb3a08f0178593c9d6e24d9d57e5[m
+Merge: 9fd279c a6fd668
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 17 01:00:28 2023 -0500
+
+    Merge pull request #195 from suhas-sunder/feature_data_management
+    
+    feat: update score
+
+[33mcommit a6fd668af7132047c88c8d382d932207f49cff42[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 17 00:59:57 2023 -0500
+
+    feat: update score
+    
+    -Save appropriate test stats to database. Display performance, score, best score, and best performance on game over page. -Fix inconsistencies between stats being displayed and stats being stored. -Move post request for stats from context to utility function.
+
+[33mcommit 9fd279cda860c475f268115472e3be0637251ba8[m
+Merge: 6ae95e7 5c61f55
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 18:36:26 2023 -0500
+
+    Merge pull request #194 from suhas-sunder/feature_data_management
+    
+    fix: difficulty score
+
+[33mcommit 5c61f55db2488e6c45e376ac15ff4f2589f01dfb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 18:36:05 2023 -0500
+
+    fix: difficulty score
+    
+    -Update difficulty score in context after being fetched from database.
+
+[33mcommit 6ae95e76ec20b02c0fad84b1b8a73e7506e3d7ba[m
+Merge: ff429f1 064dd2c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 18:20:00 2023 -0500
+
+    Merge pull request #193 from suhas-sunder/feature_data_management
+    
+    fix: add logs to debug test score issue on dev server.
+
+[33mcommit 064dd2c9a77649dfe6e903c282716c48ba3995eb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 18:19:39 2023 -0500
+
+    fix: add logs to debug test score issue on dev server.
+
+[33mcommit ff429f15b294a80b708ddf73e20f43de66651602[m
+Merge: fb60d3f 52129f6
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 18:05:06 2023 -0500
+
+    Merge pull request #192 from suhas-sunder/feature_data_management
+    
+    fix: logging errors to troubleshoot error in dev
+
+[33mcommit 52129f67a44beeb5621fe52e83b0e7674d35c663[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 18:04:42 2023 -0500
+
+    fix: logging errors to troubleshoot error in dev
+
+[33mcommit fb60d3f7ff70dea0626fa4894bb5534c1d619c5f[m
+Merge: 3dcbb88 8c7df2f
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 17:53:58 2023 -0500
+
+    Merge pull request #191 from suhas-sunder/feature_data_management
+    
+    fix: fetching empty stats
+
+[33mcommit 8c7df2fe90d1f337699a69b363abe6929acefb47[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 17:53:42 2023 -0500
+
+    fix: fetching empty stats
+
+[33mcommit 3dcbb880a46299fe7e442c683a3d8a48fe68a9a5[m
+Merge: 27604eb a0adbe7
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 17:30:18 2023 -0500
+
+    Merge pull request #190 from suhas-sunder/feature_data_management
+    
+    fix: logout
+
+[33mcommit a0adbe7dc1c102030c5a49be3e284e8cc6f207f6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 17:30:00 2023 -0500
+
+    fix: logout
+    
+    -Reset userID in context provider when user is logged out.
+
+[33mcommit 27604ebd6af43e61df13428fabbffdee34a18c37[m
+Merge: 31e21ad 6084868
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 17:01:53 2023 -0500
+
+    Merge pull request #189 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 6084868fad111ae4dd04912894763413f9d19d9a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 17:01:21 2023 -0500
+
+    feat: total score
+    
+    -Fetch total score, average wpm, and average accuracy from db. -Add total score to profile menu & update it when test score is updated on db.
+
+[33mcommit 2d4c00b532fbced26d19dce9c90e000f2010da5e[m
+Merge: 6554b86 31e21ad
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 16:08:42 2023 -0500
+
+    Merge pull request #188 from suhas-sunder/master
+    
+    Update with master
+
+[33mcommit 31e21ad5a9693107ff3040d1af1892b73ce7bc4b[m
+Merge: 987c106 6554b86
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 16 13:26:04 2023 -0500
+
+    Merge pull request #187 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 6554b86bf0d0af370a469c76177d7b5dbc91d17d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 16 13:25:34 2023 -0500
+
+    fix: svg images
+    
+    -Add fixed width and height so svg images render properly on mobile devices.
+
+[33mcommit 9a1e23eddbfa86f7433071a37647d8270bd7e740[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:52:52 2023 -0500
+
+    fix: issues with jerky animation on mobile
+
+[33mcommit 987c106552a0b412a5d4eb0d29aca8f3b8068573[m
+Merge: 6110e4d 8fbb91b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:46:56 2023 -0500
+
+    Merge pull request #186 from suhas-sunder/feature_data_management
+    
+    fix: animation issues
+
+[33mcommit 8fbb91b34fd7adf727e38ad14874b12571ff1343[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:46:34 2023 -0500
+
+    fix: animation issues
+
+[33mcommit 6110e4d724af8869dac0f9facc462b73d76df45a[m
+Merge: 0e397f1 8c49c3e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:35:15 2023 -0500
+
+    Merge pull request #185 from suhas-sunder/feature_data_management
+    
+    fix: increase GA load time
+
+[33mcommit 8c49c3e4c4ee3722a400880221984be46b2fb370[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:35:00 2023 -0500
+
+    fix: increase GA load time
+
+[33mcommit 0e397f1c1ba211e9e4bb04f4d7ffd37d69018fea[m
+Merge: 379ba2d 7875907
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:31:56 2023 -0500
+
+    Merge pull request #184 from suhas-sunder/feature_data_management
+    
+    style: loading animations
+
+[33mcommit 7875907fa23bf2d99be4437db651feffbf799946[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 23:31:22 2023 -0500
+
+    style: loading animations
+    
+    -Add loading animation for home page elements to smoothe loading transition.
+
+[33mcommit 379ba2d6a7fd1dd03e525815fd397e24609cf0c7[m
+Merge: 76a930d 79efbb2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:42:59 2023 -0500
+
+    Merge pull request #183 from suhas-sunder/feature_data_management
+    
+    fix: build errors
+
+[33mcommit 79efbb28d67e744477f2c826db3add49acc7ec54[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:42:44 2023 -0500
+
+    fix: build errors
+
+[33mcommit 76a930dca0cf60f5ded6735e8741f24c29367c26[m
+Merge: b70fe70 29f8e26
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:40:32 2023 -0500
+
+    Merge pull request #182 from suhas-sunder/feature_data_management
+    
+    fix: test time
+
+[33mcommit 29f8e26f9783568e552ec2784b9734a1b26de1af[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:40:06 2023 -0500
+
+    fix: test time
+
+[33mcommit b70fe70b0aa6a1e86b72cec59ed7255b19af7262[m
+Merge: 0d22537 c11a786
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:37:56 2023 -0500
+
+    Merge pull request #181 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit c11a78601fcddd61003d4709a9d930950b9d3197[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:36:22 2023 -0500
+
+    fix: Google analytics load delay
+
+[33mcommit c071dc6edb912023ec682cb89892eb21de5cade6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 22:26:44 2023 -0500
+
+    feat: disable space bar
+    
+    -Disable space bar on game over menu so that the page doesn't scroll unnecessairly when test is finished.
+
+[33mcommit d2e1f3269a60b7d1f50aaa4df0336a490f9df80f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 15 00:36:07 2023 -0500
+
+    feat: test results
+    
+    -Save test score to database and display results on game over page. -Add styling to game over menu elements. -Display performance and score compoent when user is logged in but hide it when user is logged out. -Display call to action message on game over menu when user is logged out.
+
+[33mcommit fd40f22a5bcfecfd6d3df27e239b996b8007f890[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 14 01:45:35 2023 -0500
+
+    feat: calculate score
+    
+    -Calculate test score in game over menu. Save test score to database.
+
+[33mcommit 0d22537378357e658ec1859b4b70da576e67b642[m
+Merge: 68d6f4b 38d2d4a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 14 01:18:20 2023 -0500
+
+    Merge pull request #180 from suhas-sunder/feature_data_management
+    
+    fix: drop down menu & save bonus score
+
+[33mcommit 38d2d4a6fe7acd4c5d07eb79a08fe22e99cfaae3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 14 01:17:13 2023 -0500
+
+    fix: drop down menu & save bonus score
+    
+    -Fix issue causing drop-down menu from being disabled in difficulty settings modal. -Save bonus score data to database under test settings when custom difficulty settings are created.
+
+[33mcommit 68d6f4bdeecaf6e40adaba00dfc1018dbb1a8e66[m
+Merge: 10d28fb 21c3fd3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 22:59:29 2023 -0500
+
+    Merge pull request #179 from suhas-sunder/feature_data_management
+    
+    style: link img colour
+
+[33mcommit 21c3fd3732af0ea833f28c590118d8241fcc4202[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 22:59:11 2023 -0500
+
+    style: link img colour
+
+[33mcommit 10d28fb17cbf82e91f7300624c8d67333ded0722[m
+Merge: 7e7ee3b 9a3a5b2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 22:47:27 2023 -0500
+
+    Merge pull request #178 from suhas-sunder/feature_data_management
+    
+    feat: transparent img
+
+[33mcommit 9a3a5b20c8e81e628a7507d17765e7d553dec9af[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 22:47:00 2023 -0500
+
+    feat: transparent img
+    
+    -Replace all link images with transparent images. -Apply colour filter to style images as needed.
+
+[33mcommit 7e7ee3bfcd872ac24a856e0d043b73a230bd9ab1[m
+Merge: b0473bc 550a0dc
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 21:13:18 2023 -0500
+
+    Merge pull request #177 from suhas-sunder/feature_data_management
+    
+    fix: load critical elements sooner
+
+[33mcommit 550a0dc08b2ecfc2c225e25725c458599652a723[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 21:12:56 2023 -0500
+
+    fix: load critical elements sooner
+
+[33mcommit b0473bcfd4953062fd4c00234a39b63133ccf10f[m
+Merge: 00dc377 cb46856
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 20:57:33 2023 -0500
+
+    Merge pull request #176 from suhas-sunder/feature_data_management
+    
+    refactor: replace text with svg
+
+[33mcommit cb46856926e46fd2319a4da7c954253c0871847c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 20:56:58 2023 -0500
+
+    refactor: replace text with svg
+
+[33mcommit 00dc377e06a44835cad7e57c1a275e3c8994cafd[m
+Merge: 0989e79 f122414
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 20:26:25 2023 -0500
+
+    Merge pull request #175 from suhas-sunder/feature_data_management
+    
+    fix: unnecessary aria label
+
+[33mcommit f12241475ac21f13f42ae90d7fd344cd06bd840e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 20:25:42 2023 -0500
+
+    fix: unnecessary aria label
+
+[33mcommit 0989e79157edeb101a51c37e7bd152a9fb053cf8[m
+Merge: 938b0f5 1ef5f08
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 20:22:06 2023 -0500
+
+    Merge pull request #174 from suhas-sunder/feature_data_management
+    
+    fix: default svg text to fix first content paintful
+
+[33mcommit 1ef5f08a44d23a24f1ae7f386c7432c064d7106b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 20:21:23 2023 -0500
+
+    fix: default svg text to fix first content paintful
+
+[33mcommit 938b0f522b401898fa8c8935d213099b762dccd9[m
+Merge: 6832a42 59a1319
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 19:16:19 2023 -0500
+
+    Merge pull request #173 from suhas-sunder/feature_data_management
+    
+    refactor: cleanup index.css
+
+[33mcommit 59a1319c940ba74c95080e88a56848f33994ccc8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 19:15:59 2023 -0500
+
+    refactor: cleanup index.css
+
+[33mcommit 6832a42bd2988d349147689bcdd3217aedd2adec[m
+Merge: ab49639 8680357
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 19:03:08 2023 -0500
+
+    Merge pull request #172 from suhas-sunder/feature_data_management
+    
+    fix: preload index.css
+
+[33mcommit 8680357c8a251cacdf9487819488f2657cd6fca1[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 19:02:48 2023 -0500
+
+    fix: preload index.css
+
+[33mcommit ab4963959117fa0d776ee795775b39c3a43088fe[m
+Merge: 78c828c 1b0ca66
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:59:56 2023 -0500
+
+    Merge pull request #171 from suhas-sunder/feature_data_management
+    
+    fix: preload index.css
+
+[33mcommit 1b0ca666dc5c64e40d8d708843796e78d6ade50f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:59:38 2023 -0500
+
+    fix: preload index.css
+
+[33mcommit 78c828c845c0afbec81ceee04ca38b24bd014a62[m
+Merge: 297615d 7f45504
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:50:32 2023 -0500
+
+    Merge pull request #170 from suhas-sunder/feature_data_management
+    
+    fix: add ross origin for preloaded fonts
+
+[33mcommit 7f45504a1270b80428f327902e5155732a989008[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:50:05 2023 -0500
+
+    fix: add ross origin for preloaded fonts
+
+[33mcommit 297615da9f1e09c90b4246f613747e535795df31[m
+Merge: decfe07 466689b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:40:58 2023 -0500
+
+    Merge pull request #169 from suhas-sunder/feature_data_management
+    
+    fix: load css from main
+
+[33mcommit 466689bd6466235740ec57efb5d930de8aef205b[m
+Merge: a8ed72e 9f23d8e
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:40:22 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit a8ed72efdda41dc182857699bc57b095b9f8d7d2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:36:33 2023 -0500
+
+    fix: load css from main
+
+[33mcommit 9f23d8ea34e2a7bef552d5b3486f97e4f756614e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:36:33 2023 -0500
+
+    fix: load css from main
+
+[33mcommit decfe07db1a199e9e9a4025ad062ecb893a50151[m
+Merge: 210c3a1 9749a12
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:31:17 2023 -0500
+
+    Merge pull request #168 from suhas-sunder/feature_data_management
+    
+    fix: test time
+
+[33mcommit 9749a1294dfab52bf6a9405a9b7dfe1712349d26[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:31:00 2023 -0500
+
+    fix: test time
+
+[33mcommit 210c3a1c4735b67943f56d1a4a3a5830f4ca4e9a[m
+Merge: f3d3b32 5b9563a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:28:45 2023 -0500
+
+    Merge pull request #167 from suhas-sunder/feature_data_management
+    
+    feat: preload fonts
+
+[33mcommit 5b9563a9d30209a82998f5ee3ce250b38274df9e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 13 18:27:48 2023 -0500
+
+    feat: preload fonts
+
+[33mcommit f3d3b3254cc729280047522b3a4e451161daefe3[m
+Merge: c85fff3 da998fb
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 23:03:12 2023 -0500
+
+    Merge pull request #166 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit da998fbbee1bab53e119497b67330a69839efd8a[m
+Merge: b8a98da 44bbd44
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 23:02:41 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit 44bbd442c1556415a34ee6ffa06afcaaa0e8b269[m
+Merge: 61df00d c85fff3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 23:02:08 2023 -0500
+
+    Merge pull request #165 from suhas-sunder/master
+    
+    Merge pull request #164 from suhas-sunder/feature_data_management
+
+[33mcommit c85fff346f3a65d4465c31c815229d1dc1ee9294[m
+Merge: 07132a3 61df00d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 23:01:39 2023 -0500
+
+    Merge pull request #164 from suhas-sunder/feature_data_management
+    
+    Merge pull request #163 from suhas-sunder/master
+
+[33mcommit b8a98da8540c7068d51b22aea018f08066a71172[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 23:01:22 2023 -0500
+
+    fix: layout shift landing page
+
+[33mcommit 61df00d361c01b63afc05333f3f2cb08d9653f06[m
+Merge: 3900698 07132a3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:49:40 2023 -0500
+
+    Merge pull request #163 from suhas-sunder/master
+    
+    Update with master branch
+
+[33mcommit 07132a3ddb7ae3e05437e848001d6b2b3397030c[m
+Merge: 89c7983 3900698
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:48:22 2023 -0500
+
+    Merge pull request #162 from suhas-sunder/feature_data_management
+    
+    fix: delay google tag manager
+
+[33mcommit 3900698620010f2e3855649419ff204763ca7b44[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:48:06 2023 -0500
+
+    fix: delay google tag manager
+
+[33mcommit 89c79834311b53de7b0fac1d3a8ec6be11d882f5[m
+Merge: 777f6c2 005dc3e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:46:16 2023 -0500
+
+    Merge pull request #161 from suhas-sunder/feature_data_management
+    
+    fix: header spacing
+
+[33mcommit 005dc3e8bab8597baaa11c67bd9a541c793fefca[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:46:00 2023 -0500
+
+    fix: header spacing
+
+[33mcommit 777f6c24dbb68dfed1283bc79db4a1173b5738c6[m
+Merge: ded8eab 72aa248
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:40:10 2023 -0500
+
+    Merge pull request #160 from suhas-sunder/feature_data_management
+    
+    fix: layout shift
+
+[33mcommit 72aa248198029ddc900c75827a1e8d563c41ad65[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:39:53 2023 -0500
+
+    fix: layout shift
+
+[33mcommit ded8eabdec1b4ddb3e5ce7c160dd8edeb5608cde[m
+Merge: 2293bc9 8c1d445
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:02:14 2023 -0500
+
+    Merge pull request #159 from suhas-sunder/feature_data_management
+    
+    fix: layout shift
+
+[33mcommit 8c1d4458f0bfc0bf4bd7a4172e20f17e94b42f10[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 22:01:29 2023 -0500
+
+    fix: layout shift
+
+[33mcommit 2293bc90c9071b9027f0fdb71c7cbc1ab4cf3b10[m
+Merge: 15ac79b 4a57482
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 19:26:07 2023 -0500
+
+    Merge pull request #158 from suhas-sunder/feature_data_management
+    
+    fix: layout shifts home page
+
+[33mcommit 4a57482e6f7e7ca897edd7136f45274e8cf6035f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 19:25:22 2023 -0500
+
+    fix: layout shifts home page
+
+[33mcommit 15ac79bbc99068861b54875739786603637e13df[m
+Merge: 150bd1f 42dc61b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 19:15:33 2023 -0500
+
+    Merge pull request #157 from suhas-sunder/feature_data_management
+    
+    fix: layout shifts home page
+
+[33mcommit 42dc61b679e3d7ccf213034279152da049b36ed4[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 19:14:55 2023 -0500
+
+    fix: layout shifts home page
+
+[33mcommit 150bd1fd1f54be036bb7db9cda77ab385922cbb0[m
+Merge: 9356114 423c282
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 12 18:57:24 2023 -0500
+
+    Merge pull request #156 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 423c282fed2b1500bffb68479a549f82eef04233[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 18:56:50 2023 -0500
+
+    refactor: preload & layout shift
+    
+    -Refactor preload on home page to be better optimized. -Add fixed width to home page header dashboard so the layout doesn't shift on load.
+
+[33mcommit 55496097dbff31e1a150d906e94ae54656f211fe[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 12 01:00:46 2023 -0500
+
+    feat: config score api
+    
+    -Update score table on database. -Add get and post request to accountRouter to fetch/update score table.
+
+[33mcommit f5487de34ffa6a60171db3b919deec6ea3b80c30[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 11 23:07:16 2023 -0500
+
+    refactor: game over menu
+    
+    -Make improvements to mobile responsive design.
+
+[33mcommit 9356114f670ef2dc657bea75f5b0b877debaff15[m
+Merge: 4a36f5e 29f90db
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 11 22:40:42 2023 -0500
+
+    Merge pull request #155 from suhas-sunder/feature_data_management
+    
+    style: test menu
+
+[33mcommit 29f90dbef1ff66474a0cdadebe2ce90f7a3257ad[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 11 22:40:25 2023 -0500
+
+    style: test menu
+    
+    -Make improvemetns to mobile design.
+
+[33mcommit 4a36f5e0fbd9709b0148cbcc701b6a132fae7b3e[m
+Merge: b9a05fb 5b4bb4e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:58:15 2023 -0500
+
+    Merge pull request #154 from suhas-sunder/feature_data_management
+    
+    fix: don't defer critical element
+
+[33mcommit 5b4bb4e184c96dceb10e3c7d0d335f00b92b22f2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:57:55 2023 -0500
+
+    fix: don't defer critical element
+
+[33mcommit b9a05fbcaae00c9dd98a9737ea1138c36af8b34f[m
+Merge: 59441de 5b3581e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:54:31 2023 -0500
+
+    Merge pull request #153 from suhas-sunder/feature_data_management
+    
+    fix: mobile font first content paintful
+
+[33mcommit 5b3581e577a018f1a01e47dfe3a0dbf93e2d93e2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:54:11 2023 -0500
+
+    fix: mobile font first content paintful
+
+[33mcommit 59441de64c34483965b62ef3e801280517fa8f7e[m
+Merge: 083f179 34157b6
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:42:54 2023 -0500
+
+    Merge pull request #152 from suhas-sunder/feature_data_management
+    
+    fix: difficulty menu layout shift
+
+[33mcommit 34157b652ad8aa826eb175bf9e3b3d4daebf0745[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:42:35 2023 -0500
+
+    fix: difficulty menu layout shift
+
+[33mcommit 083f179b60e2b57a857decc3e985de1450dc5195[m
+Merge: 69c3681 5073aad
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:14:03 2023 -0500
+
+    Merge pull request #151 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 5073aad162816789b336f73bdfbb58e8956e4015[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 11 21:13:40 2023 -0500
+
+    fix: preload css
+
+[33mcommit fdb80d5e9bc0d77219faf73479bf78322f2718f4[m
+Merge: b733761 8d0d1a4
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 10 23:55:30 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit b733761f020cda9adcf763c82e677a935dc52533[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 10 23:54:59 2023 -0500
+
+    fix: sitemap and minor styling changes
+
+[33mcommit 69c3681381f98b8da4f85bb345b241c8612e97f3[m
+Merge: c958ba0 8d0d1a4
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 22:11:40 2023 -0500
+
+    Merge pull request #150 from suhas-sunder/feature_data_management
+    
+    Merge pull request #149 from suhas-sunder/master
+
+[33mcommit 8d0d1a496c5f06ecce59528c06e2c3660536eb90[m
+Merge: 7c76024 c958ba0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 22:11:16 2023 -0500
+
+    Merge pull request #149 from suhas-sunder/master
+    
+    Merge pull request #148 from suhas-sunder/feature_data_management
+
+[33mcommit c958ba09b44766f22c40988eba21f637eae76e91[m
+Merge: fcd921d 7c76024
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 22:10:56 2023 -0500
+
+    Merge pull request #148 from suhas-sunder/feature_data_management
+    
+    Merge pull request #147 from suhas-sunder/master
+
+[33mcommit 7c76024fdd90e5d330978418919bbff9510ea9cb[m
+Merge: 7f1c266 fcd921d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 22:10:38 2023 -0500
+
+    Merge pull request #147 from suhas-sunder/master
+    
+    Update from master
+
+[33mcommit fcd921dd9fcd5cc0238a3b4a1a3dc47be2c68a02[m
+Merge: 133ea3f 7f1c266
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:54:44 2023 -0500
+
+    Merge pull request #146 from suhas-sunder/feature_data_management
+    
+    fix: delay google analytics load
+
+[33mcommit 7f1c2664170e00c353c15b572516314122aa0fec[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:54:23 2023 -0500
+
+    fix: delay google analytics load
+
+[33mcommit 133ea3f59980a81b324d0eb77376e05dee6beb16[m
+Merge: 9ff87c1 c407022
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:49:30 2023 -0500
+
+    Merge pull request #145 from suhas-sunder/feature_data_management
+    
+    fix: Buttons do not have an accessible name
+
+[33mcommit c407022511d8101b6592e328574674846bc5052e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:49:13 2023 -0500
+
+    fix: Buttons do not have an accessible name
+
+[33mcommit 9ff87c1cc82c662afedb29a9e870b83e04a2956b[m
+Merge: b835252 7bc3b3b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:46:18 2023 -0500
+
+    Merge pull request #144 from suhas-sunder/feature_data_management
+    
+    fix: appropriately size tap targets && first content paintful start b…
+
+[33mcommit 7bc3b3b6acddb8f662ea74cf2cee13f17535f042[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:45:54 2023 -0500
+
+    fix: appropriately size tap targets && first content paintful start btn text
+
+[33mcommit b835252d39878f178028d250ff30cb52577c1c7a[m
+Merge: 50cb3b9 8d9d032
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:21:04 2023 -0500
+
+    Merge pull request #143 from suhas-sunder/feature_data_management
+    
+    fix: appropriately size tap targets
+
+[33mcommit 8d9d0326259334490b7eed3acc600ce364d7d72c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 10 00:20:48 2023 -0500
+
+    fix: appropriately size tap targets
+
+[33mcommit 50cb3b94d499439d0f88997c32e9a0dcefe8ad2f[m
+Merge: fbf186e 6730b38
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 23:32:33 2023 -0500
+
+    Merge pull request #142 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 6730b38a65acbfb3c405863ab6c177812f4748cc[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 23:32:10 2023 -0500
+
+    refactor: preload icons
+
+[33mcommit 40153f269adc054c9cea9e8ccae5413ced9b2ecf[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 22:14:02 2023 -0500
+
+    fix: scroll position & styling
+    
+    -Fix minor styling issues. -Fix scorll position when test starts but user is not logged in.
+
+[33mcommit 6208d8b19a4e45f34d2391fed2f5764f99151802[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 18:45:24 2023 -0500
+
+    style: home page
+    
+    -Add responsive design to all elements on home page.
+
+[33mcommit 1caca2b0f27a817543e5c8d35f12b1d2971df46f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 18:27:34 2023 -0500
+
+    feat: stats context
+    
+    -Add stats context provider to keep track of user stats, score, etc.
+
+[33mcommit fbf186e2922d312a285113d99bd16415dee1f553[m
+Merge: c19e40f 906ac9b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 16:03:27 2023 -0500
+
+    Merge pull request #141 from suhas-sunder/feature_data_management
+    
+    feat: webp image format
+
+[33mcommit 906ac9b5a548d42ce916f445bf3ca97d91c11340[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 16:02:35 2023 -0500
+
+    feat: webp image format
+
+[33mcommit c19e40fe8e6cc427684fd9de36d95c60b5db8746[m
+Merge: 04782b8 d7e9d74
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:27:09 2023 -0500
+
+    Merge pull request #140 from suhas-sunder/feature_data_management
+    
+    fix: svg render mobile
+
+[33mcommit d7e9d74948499e448d8d34f48bf0775cd04a4532[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:26:47 2023 -0500
+
+    fix: svg render mobile
+
+[33mcommit 04782b8b5a8bc80fd9ad0ebd3b4c7c6a0a14efb7[m
+Merge: 879bbb0 a03cfdf
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:20:36 2023 -0500
+
+    Merge pull request #139 from suhas-sunder/feature_data_management
+    
+    fix: svg render mobile
+
+[33mcommit a03cfdffe40e4628ac848934032c1638067a27c5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:20:10 2023 -0500
+
+    fix: svg render mobile
+
+[33mcommit 879bbb0512f3195f1bc82945821724b787948c1f[m
+Merge: bf8f435 8c61738
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:12:31 2023 -0500
+
+    Merge pull request #138 from suhas-sunder/feature_data_management
+    
+    fix: svg render mobile
+
+[33mcommit 8c61738589046c4e2a5e3fbba128c431b7dec18e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:12:12 2023 -0500
+
+    fix: svg render mobile
+
+[33mcommit bf8f43513c8bae08bd2c4bd6a6b799daf6f2c30b[m
+Merge: a3aaca0 d40f0e3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:09:08 2023 -0500
+
+    Merge pull request #137 from suhas-sunder/feature_data_management
+    
+    fix: svg render mobile
+
+[33mcommit d40f0e3a146bea68a9eb6d24c58b355454e90785[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 14:08:52 2023 -0500
+
+    fix: svg render mobile
+
+[33mcommit a3aaca0a3eb27efeb3814483fca00984b507024d[m
+Merge: ee793b0 2005d59
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 13:56:10 2023 -0500
+
+    Merge pull request #136 from suhas-sunder/feature_data_management
+    
+    fix: svg render mobile
+
+[33mcommit 2005d59aa13935501a9b32b720de1952de926e34[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 13:55:55 2023 -0500
+
+    fix: svg render mobile
+
+[33mcommit ee793b088725b4c92e3a3433bf197cf2a38da066[m
+Merge: 78954c3 c23ab13
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 13:49:58 2023 -0500
+
+    Merge pull request #135 from suhas-sunder/feature_data_management
+    
+    fix: build error
+
+[33mcommit c23ab13f392abe2e548bedd14a76c13fb2a90a4a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 13:49:43 2023 -0500
+
+    fix: build error
+
+[33mcommit 78954c381c87cc0d3a98e8a39e885ff750c9386e[m
+Merge: 9f379d2 c3c9a42
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 9 13:48:40 2023 -0500
+
+    Merge pull request #134 from suhas-sunder/feature_data_management
+    
+    refactor: home page
+
+[33mcommit c3c9a42f7b12c39c4eeca781a16aba50ae8a5caa[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 9 13:47:13 2023 -0500
+
+    refactor: home page
+    
+    -Add svg text for difficulty label. -Add custom styles for image links where needed. -Adjust styling for header dashboard component.
+
+[33mcommit 9f379d2c505f7673023f897bd4dc20f60789f779[m
+Merge: 3d93001 48c5fb0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 23:35:21 2023 -0500
+
+    Merge pull request #133 from suhas-sunder/feature_data_management
+    
+    fix: logo
+
+[33mcommit 48c5fb03ca836fa4c90ec03026b0771e6d31afe5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 23:34:50 2023 -0500
+
+    fix: logo
+
+[33mcommit 3d93001a10da265bd3b0f9fb7a3f3707c1ce6deb[m
+Merge: 9a986d4 a03ca55
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 23:13:14 2023 -0500
+
+    Merge pull request #132 from suhas-sunder/feature_data_management
+    
+    feat: replace text with svg
+
+[33mcommit a03ca55c628977eb2e0c7ef7e5379907bce053a8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 23:12:41 2023 -0500
+
+    feat: replace text with svg
+
+[33mcommit 9a986d4d02e4745dba7ffe9986aa42b453a38501[m
+Merge: 29e14ba 97a528f
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 21:46:22 2023 -0500
+
+    Merge pull request #131 from suhas-sunder/feature_data_management
+    
+    fix: mobile font issues
+
+[33mcommit 97a528f7a2e6118d7581c441432d4cf4b2515972[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 21:45:54 2023 -0500
+
+    fix: mobile font issues
+
+[33mcommit 29e14bad872498f0a97dcc633cbf97d9ae36c413[m
+Merge: 89e2fc8 10ad578
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:53:23 2023 -0500
+
+    Merge pull request #130 from suhas-sunder/feature_data_management
+    
+    feat: sitemap
+
+[33mcommit 10ad578ce66e8e5de2b632fa7fd7db3bddcb1a58[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:53:02 2023 -0500
+
+    feat: sitemap
+
+[33mcommit 89e2fc8dd6ad6724acc787863f31b067e3307064[m
+Merge: 3add4f5 dc8278e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:07:26 2023 -0500
+
+    Merge pull request #129 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit dc8278e8262507001df5a599265be4d82486d709[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:07:02 2023 -0500
+
+    fix: build error
+
+[33mcommit 03fc5fa116cabeaccf003f5d182be2745f6e6c6a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:05:52 2023 -0500
+
+    fix: build error
+
+[33mcommit 3add4f5453c40672e3892c19c365e690efc9c594[m
+Merge: 99ccf54 f502962
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:04:30 2023 -0500
+
+    Merge pull request #128 from suhas-sunder/feature_data_management
+    
+    feat: compressed fonts
+
+[33mcommit f502962b636c0c1815604c2c9d17be19f2e56933[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 17:04:11 2023 -0500
+
+    feat: compressed fonts
+
+[33mcommit 99ccf541ad71d8d9be639698e06c7868651d62da[m
+Merge: f906297 7e5370a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 16:56:35 2023 -0500
+
+    Merge pull request #127 from suhas-sunder/feature_data_management
+    
+    fix: fonts
+
+[33mcommit 7e5370a420c7227fede1910a9d2c0b900897029b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 16:56:17 2023 -0500
+
+    fix: fonts
+
+[33mcommit f906297ab8514bf04a71d95e3ec674abd3ab3d7c[m
+Merge: 30e5b13 b392b9b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 16:44:34 2023 -0500
+
+    Merge pull request #126 from suhas-sunder/feature_data_management
+    
+    fix: display font swap
+
+[33mcommit b392b9b73971944846badf5a908ee0a609152fea[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 16:44:17 2023 -0500
+
+    fix: display font swap
+
+[33mcommit 30e5b13d17c466c51f0547e02a6308baff3a9ccb[m
+Merge: c1b6515 8e5d3a7
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 16:41:45 2023 -0500
+
+    Merge pull request #125 from suhas-sunder/feature_data_management
+    
+    feat: load fonts locally instead of using google fonts CDN
+
+[33mcommit 8e5d3a70fb3a0ea90c208a78c25e255b49aea282[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 16:40:56 2023 -0500
+
+    feat: load fonts locally instead of using google fonts CDN
+
+[33mcommit c1b6515bded464e6c682ec8937d0cc1e367d6559[m
+Merge: 18c74f9 a23b18a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 02:08:50 2023 -0500
+
+    Merge pull request #124 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit a23b18ae738f110e2e934b2c88754a53122f365b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 02:08:24 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 18c74f9ac7dc4d5e0b6fe2b8ca633c16c1835a92[m
+Merge: 3981dad 9461c74
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 02:03:12 2023 -0500
+
+    Merge pull request #123 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit 9461c74495e0e612e18e267a41f896780c2428d6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 02:02:40 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 3981dad2221cba4c993725ba239718e6b77770ea[m
+Merge: e607ee3 37de46d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:59:36 2023 -0500
+
+    Merge pull request #122 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit 37de46d1ec2d8bd364fb6c7e6c8b8b54cd047e0d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:59:07 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit e607ee350fe46bc255bf6d697855256164733c37[m
+Merge: d2df6a4 04d2fcf
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:57:53 2023 -0500
+
+    Merge pull request #121 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit 04d2fcf943132cd146628ee108c1219ef9210b46[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:57:36 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit d2df6a4396a4489a33d6868118b9d48acfb4121f[m
+Merge: 738f4fe cb336ca
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:53:41 2023 -0500
+
+    Merge pull request #120 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit cb336caf26bed9ec4bc76e170ef0f1c790fbcebd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:53:26 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 738f4fe95c590e670df7d0fc87c578cfe7d13d72[m
+Merge: db63945 c25c439
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:51:34 2023 -0500
+
+    Merge pull request #119 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit c25c43917cbc48ae1f865c36afb325f258edba71[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:51:07 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit db639450fb3b50398d248b34f85f9d499f7f538f[m
+Merge: 4fd6559 b61aa31
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:49:44 2023 -0500
+
+    Merge pull request #118 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit b61aa31c98bebffcf1e29932ee1893e65dae391f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:49:28 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 4fd6559cb3b1c25b31f95aaca94446a163513f07[m
+Merge: 2b94d5a fd8b5db
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:48:41 2023 -0500
+
+    Merge pull request #117 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit fd8b5dbf98020f9541319ee5af883a31427f9bd3[m
+Merge: 2ce4ffa 692ecd8
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:48:12 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 2ce4ffa7d808098dfff378b0b387df938ab1dac4[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:45:29 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 2b94d5a611da7a3943f66017590859a3e59472c6[m
+Merge: 6fa0437 692ecd8
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:45:47 2023 -0500
+
+    Merge pull request #116 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit 692ecd89638b8a575d195383b726c9bc5116af8c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:45:29 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit 6fa0437d7558f067521d9fdbf5f837102da6d4c6[m
+Merge: ae5b6f6 7539f4b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:25:57 2023 -0500
+
+    Merge pull request #115 from suhas-sunder/feature_data_management
+    
+    fix: font issues on mobile
+
+[33mcommit 7539f4b7f69f773de4b67deb2f12493c98a9cdf8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:25:41 2023 -0500
+
+    fix: font issues on mobile
+
+[33mcommit ae5b6f630255c5f31fdaedf52ca99222a5fb62e0[m
+Merge: e986611 2960435
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:19:32 2023 -0500
+
+    Merge pull request #114 from suhas-sunder/feature_data_management
+    
+    fix: font issue on mobile
+
+[33mcommit 2960435bfd3a70022798ad9789b8903e73771016[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:18:59 2023 -0500
+
+    fix: font issue on mobile
+
+[33mcommit e986611c372bcf1a9310c62624cdeed27462c1fb[m
+Merge: abdaa82 2a200ba
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:11:12 2023 -0500
+
+    Merge pull request #113 from suhas-sunder/feature_data_management
+    
+    fix: lazy load first content paintful img for mobile.
+
+[33mcommit 2a200ba0610b2caef286b6ae98031cec987545a9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 8 01:10:02 2023 -0500
+
+    fix: lazy load first content paintful img for mobile.
+
+[33mcommit abdaa8235f61b4a85d770c3c96126604af7a1827[m
+Merge: 95dc3b6 a8704be
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:59:25 2023 -0500
+
+    Merge pull request #112 from suhas-sunder/feature_data_management
+    
+    fix: component load times
+
+[33mcommit a8704be6652615e8aca5672d9df2cc141a2aaf73[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:59:07 2023 -0500
+
+    fix: component load times
+
+[33mcommit 95dc3b61121cdeb18161ce9b302b6aff5d8b72fa[m
+Merge: a7e4049 e2124f0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:51:36 2023 -0500
+
+    Merge pull request #111 from suhas-sunder/feature_data_management
+    
+    feat: preload all relevant hidden components.
+
+[33mcommit e2124f0fdf357d369457422e8e1a8d6f8b862f90[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:51:11 2023 -0500
+
+    feat: preload all relevant hidden components.
+
+[33mcommit a7e4049bbbccefd998eef53500930a5f543c9ada[m
+Merge: c89aeb9 9e64b45
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:34:45 2023 -0500
+
+    Merge pull request #110 from suhas-sunder/feature_data_management
+    
+    refactor: speed up preload time
+
+[33mcommit 9e64b45c9b17980468511e1a432316e4b7aa0b86[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:34:25 2023 -0500
+
+    refactor: speed up preload time
+
+[33mcommit c89aeb9a78035592c5504472162d236d9d6dc51a[m
+Merge: c0526f2 94d5682
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:28:12 2023 -0500
+
+    Merge pull request #109 from suhas-sunder/feature_data_management
+    
+    feat: lazy load & preload components
+
+[33mcommit 94d5682196b0439ea28342c1caf765b9e0b53c77[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 23:27:18 2023 -0500
+
+    feat: lazy load & preload components
+
+[33mcommit c0526f2664881b487ecc1f5de7992d638e24a3b6[m
+Merge: 226b0ff be8506e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 20:31:44 2023 -0500
+
+    Merge pull request #108 from suhas-sunder/feature_data_management
+    
+    fix: image location
+
+[33mcommit be8506ef17719334cf8adc40462626dc4f176a26[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 20:31:25 2023 -0500
+
+    fix: image location
+
+[33mcommit 226b0ffc7435fefbf46eb6bb99afffa6eef94949[m
+Merge: 332c710 c5dc6a9
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:26:05 2023 -0500
+
+    Merge pull request #107 from suhas-sunder/feature_data_management
+    
+    fix: increase analytics load time
+
+[33mcommit c5dc6a992227d763c49dd4599cc5432fca7a6f8c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:25:45 2023 -0500
+
+    fix: increase analytics load time
+
+[33mcommit 332c71019e42d88307bf5e65294beb1872e08080[m
+Merge: 3e059d0 86ff632
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:24:30 2023 -0500
+
+    Merge pull request #106 from suhas-sunder/feature_data_management
+    
+    fix: increase analytics load time
+
+[33mcommit 86ff63266e3cca1a7b1fc72c84d62eaa6c34fd6f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:24:07 2023 -0500
+
+    fix: increase analytics load time
+
+[33mcommit 3e059d0067f533bd0804a96f53756a4699ae958d[m
+Merge: 2cbda0d 2fe79c7
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:22:55 2023 -0500
+
+    Merge pull request #105 from suhas-sunder/feature_data_management
+    
+    fix: increase analytics load time
+
+[33mcommit 2fe79c7d3bee9b2e68b5ca53a392d2da0c931b7b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:22:33 2023 -0500
+
+    fix: increase analytics load time
+
+[33mcommit 2cbda0df8a41c7483b76d1ca83bd0bc3640438a3[m
+Merge: cc72a6d d432904
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:20:13 2023 -0500
+
+    Merge pull request #104 from suhas-sunder/feature_data_management
+    
+    fix: build errors
+
+[33mcommit d43290413c5db516bcfe504ebb12b0dc19c8972a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:19:56 2023 -0500
+
+    fix: build errors
+
+[33mcommit cc72a6dac2ab4fffbe8acba8d63d3d63ac59e0c4[m
+Merge: c5f8308 0183370
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:15:59 2023 -0500
+
+    Merge pull request #103 from suhas-sunder/feature_data_management
+    
+    refactor: load google analytics faster
+
+[33mcommit 018337073a1f1bfada83cedce40f8d8bd05d8dcc[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Dec 7 01:15:29 2023 -0500
+
+    refactor: load google analytics faster
+
+[33mcommit c5f8308cdb65a9d24e3c8cbebd1ea97da9302a92[m
+Merge: 986e55a 685f922
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Dec 6 18:16:13 2023 -0500
+
+    Merge pull request #102 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 685f922189f939889910903ef5bd8a77c8d4ef38[m
+Merge: c65dd80 94c622f
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 6 18:15:41 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit c65dd801232a059b82693aaea54d2f686698919f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 6 17:31:40 2023 -0500
+
+    feat: complete landing page
+    
+    -Add all remaining sections and elements to landing page. -Style all elements on landing page to be responsive.
+
+[33mcommit 94c622f55b7a041a4ad65a55a866be36c220c4a0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 6 17:31:40 2023 -0500
+
+    feat: complete landing page
+    
+    -Add all remaining sections and elements to landing page. -Style all elements on landing page to be responsive.
+
+[33mcommit e06a78397a6c7e88517b5a4c0ec0ba52224d938f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Dec 6 13:50:06 2023 -0500
+
+    feat: call to action banner
+
+[33mcommit 986e55adb3f1abd02aa5504651ad3812f778c49f[m
+Merge: 4ba7999 39721ad
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Dec 5 01:05:08 2023 -0500
+
+    Merge pull request #101 from suhas-sunder/feature_data_management
+    
+    feat: colour change
+
+[33mcommit 39721adab359f0a2a9fe5cdaa30514bb267a5cdd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Dec 5 01:04:32 2023 -0500
+
+    feat: colour change
+    
+    -Add hext to css filter utility function. Make use of utility function to animate colour change of image on landing page.
+
+[33mcommit 4ba7999c702eac53a40eca0e732e5775dfe63e2c[m
+Merge: 0347cde 7d9ed8b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 4 19:52:09 2023 -0500
+
+    Merge pull request #100 from suhas-sunder/feature_data_management
+    
+    feat: ads.txt for adsense
+
+[33mcommit 7d9ed8b88a5d907ea68f05e33f25bb668de0f249[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 4 19:51:37 2023 -0500
+
+    feat: ads.txt for adsense
+
+[33mcommit 0347cde2cca9db9b2fffa8d36ea83474a4ef577d[m
+Merge: 4121903 83266b0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:56:28 2023 -0500
+
+    Merge pull request #99 from suhas-sunder/feature_data_management
+    
+    fix: remove low contrast text link
+
+[33mcommit 83266b0824631043ed86b939c25dd19392b7eb62[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:56:07 2023 -0500
+
+    fix: remove low contrast text link
+
+[33mcommit 4121903fb21c61c1fb22ad696b6d62681b4518fe[m
+Merge: c67a402 0d7ed08
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:53:12 2023 -0500
+
+    Merge pull request #98 from suhas-sunder/feature_data_management
+    
+    fix: link contrast
+
+[33mcommit 0d7ed08b2c829d259ff866373ce33fdf3c209ca1[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:52:53 2023 -0500
+
+    fix: link contrast
+
+[33mcommit c67a402753ce93c52d3177b5d8b8875ae3d5135e[m
+Merge: 657076f ff9b253
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:48:44 2023 -0500
+
+    Merge pull request #97 from suhas-sunder/feature_data_management
+    
+    fix: link contrast
+
+[33mcommit ff9b25390e5cc908a062e35df809781b2ef16530[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:48:00 2023 -0500
+
+    fix: link contrast
+
+[33mcommit 657076f2b3c0f514a66ff42021b64b4233a2beb9[m
+Merge: 8a1924d 6321df9
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:46:00 2023 -0500
+
+    Merge pull request #96 from suhas-sunder/feature_data_management
+    
+    fix: link contrast
+
+[33mcommit 6321df9c60eef58aad0e4f887fb5ab795d671685[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:45:39 2023 -0500
+
+    fix: link contrast
+
+[33mcommit 8a1924ddcdcea881bc73c238c7fd20cc2e04c4ae[m
+Merge: 99c7724 644279f
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:42:28 2023 -0500
+
+    Merge pull request #95 from suhas-sunder/feature_data_management
+    
+    feat: landing page
+
+[33mcommit 644279fb6ae57be203da394a3a49688079926c20[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Dec 4 18:41:54 2023 -0500
+
+    feat: landing page
+    
+    -Hide elements to be shown only when user logs in. -Add elements to be shown to users that are not logged in on the home page.
+
+[33mcommit 99c7724d46144c44a22261f0298ef5982034127a[m
+Merge: 9d8e85f 972d387
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 18:38:00 2023 -0500
+
+    Merge pull request #94 from suhas-sunder/feature_data_management
+    
+    fix: image optimization
+
+[33mcommit 972d387cdcc67d0261637b269f712d0212295515[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 18:37:39 2023 -0500
+
+    fix: image optimization
+
+[33mcommit 9d8e85f84634348667ca35b43d14e9215c285410[m
+Merge: 7d5f364 9fe70a3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:41:03 2023 -0500
+
+    Merge pull request #93 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 9fe70a3a5c2777bcc6b6773b183fe405f68b3cde[m
+Merge: 6cefad0 802a16a
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:40:46 2023 -0500
+
+    fix
+
+[33mcommit 6cefad085b21d1b70a90f1d679b96c8627521ef7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:36:47 2023 -0500
+
+    fix: delay google analytics load time
+
+[33mcommit 7d5f36486b8cc41e2abb00e6352c2cf185211a1c[m
+Merge: f6c8b7c 802a16a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:37:15 2023 -0500
+
+    Merge pull request #92 from suhas-sunder/feature_data_management
+    
+    fix: delay google analytics load time
+
+[33mcommit 802a16a388f377810e6815243e0cea2da0901334[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:36:47 2023 -0500
+
+    fix: delay google analytics load time
+
+[33mcommit f6c8b7c53205ef33e2c54fe9ce87802919a7c8e6[m
+Merge: 8b2cbef 68866eb
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:27:04 2023 -0500
+
+    Merge pull request #91 from suhas-sunder/feature_data_management
+    
+    refactor: google fonts load
+
+[33mcommit 68866ebda23714b0e8f3f886d2913e1564bc378c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:26:45 2023 -0500
+
+    refactor: google fonts load
+
+[33mcommit 8b2cbefb3000853e3c1733c74c520b1ef13bbf13[m
+Merge: 6bd4f7c 450b5d5
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:22:39 2023 -0500
+
+    Merge pull request #90 from suhas-sunder/feature_data_management
+    
+    fix: minor changes to google fonts link
+
+[33mcommit 450b5d52b2e13c9ce4fb36ae88fe5c0d574c7784[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:22:17 2023 -0500
+
+    fix: minor changes to google fonts link
+
+[33mcommit 6bd4f7c9b90ae5c3dbd7e23e8eca612a7ea76878[m
+Merge: bbfec6b cb7eb3d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:11:27 2023 -0500
+
+    Merge pull request #89 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit cb7eb3d60f824cc6d49c7f9536f1dc24d05c999a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:11:09 2023 -0500
+
+    fix: build errors
+
+[33mcommit bf0f70c071e2ecf03a62cbbf3e7b864c4d0e9188[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 17:01:34 2023 -0500
+
+    fix: build errors
+
+[33mcommit bbfec6b259e2bf9449046ace49bfb53d627a0839[m
+Merge: 7c06212 fedcab8
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:59:16 2023 -0500
+
+    Merge pull request #88 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit fedcab8205ebcb3986ac7f887ac3b781a4223ae0[m
+Merge: ff7763a 7e79e87
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:58:55 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit ff7763add755cf74d2f78877ee5bf9ff0d4df95b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:55:50 2023 -0500
+
+    fix: stylesheet
+
+[33mcommit 7c062120455a85c2f801ac282093b94a187d02e0[m
+Merge: 0727e41 7e79e87
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:56:49 2023 -0500
+
+    Merge pull request #87 from suhas-sunder/feature_data_management
+    
+    fix: stylesheet
+
+[33mcommit 7e79e872972e688234959c43fa9004ee5a479863[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:55:50 2023 -0500
+
+    fix: stylesheet
+
+[33mcommit 0727e418aa49df26857f9ae4bef931af2326a0b3[m
+Merge: d18d7b0 9537a10
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:49:29 2023 -0500
+
+    Merge pull request #86 from suhas-sunder/feature_data_management
+    
+    fix: Tailwind Config
+
+[33mcommit 9537a100dcf218fd1e68467bb090638b3db2371b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:49:06 2023 -0500
+
+    fix: Tailwind Config
+
+[33mcommit d18d7b0e6aa78eb95fb7713c7d7c6407e790b38f[m
+Merge: 566deac 4242f05
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:29:35 2023 -0500
+
+    Merge pull request #85 from suhas-sunder/feature_data_management
+    
+    refactor: index.css load
+
+[33mcommit 4242f053bb64dfe63e615c1b2d09ec8a8551add0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:29:11 2023 -0500
+
+    refactor: index.css load
+    
+    -Load index.css directly as stylesheet link in index.html to see if it fixes font loading issues on mobile phones.
+
+[33mcommit 566deac76fc4f26c6ab33c4e0db081702dc2d516[m
+Merge: ebb0a6e f8d9fda
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:20:31 2023 -0500
+
+    Merge pull request #84 from suhas-sunder/feature_data_management
+    
+    fix: font loading issue on mobile.
+
+[33mcommit f8d9fdaa85ddb93606bfe0f9e13308bc6ac92398[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:20:08 2023 -0500
+
+    fix: font loading issue on mobile.
+
+[33mcommit ebb0a6e8f986204114321088c26a1996f6cf2bcd[m
+Merge: deee097 0eee5bf
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:15:29 2023 -0500
+
+    Merge pull request #83 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 0eee5bf5d6352084e1feedfd194b9f78e93db1b0[m
+Merge: 76c676c 1f6a55b
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:14:12 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit 76c676cc66eb81e593751c06e9ee4a3ae633e8d6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:02:41 2023 -0500
+
+    refactor: settings & policy edits
+
+[33mcommit 1f6a55bd03a1dc209f93524ef0266d55d8f2f8a2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Dec 3 15:02:41 2023 -0500
+
+    refactor: settings & policy edits
+
+[33mcommit deee0977a64d1ee72cde527253598a50ca561b9a[m
+Merge: 72f0705 af90e90
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 23:59:33 2023 -0500
+
+    Merge pull request #82 from suhas-sunder/feature_data_management
+    
+    feat: update site policy
+
+[33mcommit af90e90d5ac59c726bf0a2602798942d3b2131a6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 23:21:46 2023 -0500
+
+    feat: update site policy
+
+[33mcommit 72f0705c2481fb490cb47b9ace5452af9643f995[m
+Merge: a296038 c5662d0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 20:06:01 2023 -0500
+
+    Merge pull request #81 from suhas-sunder/feature_data_management
+    
+    fix: build error
+
+[33mcommit c5662d05b78f0279251e9c4f89d2e67ea70b7de6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 20:05:32 2023 -0500
+
+    fix: build error
+
+[33mcommit a29603896012bca41f682ff6e75bf41be4b06354[m
+Merge: a8126ae e05ac79
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 20:03:53 2023 -0500
+
+    Merge pull request #80 from suhas-sunder/feature_data_management
+    
+    fix: build error
+
+[33mcommit e05ac7952443c3cf43b7a11f920082891ca75962[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 20:03:28 2023 -0500
+
+    fix: build error
+
+[33mcommit a8126aeb10c800430a371a2f23a8dc2c249d6373[m
+Merge: a789766 77ba27d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 20:02:06 2023 -0500
+
+    Merge pull request #79 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 77ba27d9e4668b848783984e3264bb4aed871d4d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 20:01:29 2023 -0500
+
+    refactor: footer links
+    
+    -Hide nav links for now. -Add terms and conditions links.
+
+[33mcommit 24d9776ffb883254992fa455caea319e03c07e7c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 19:56:37 2023 -0500
+
+    feat: Cookie Policy & TOS
+
+[33mcommit 07368a75b12c9fb288e479dc617a7098f1c43cd7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 18:56:23 2023 -0500
+
+    feat: privacy policy
+
+[33mcommit a789766fe52a15470ac075282af054619d808612[m
+Merge: cd2c5a8 a96efc0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 16:44:38 2023 -0500
+
+    Merge pull request #78 from suhas-sunder/feature_data_management
+    
+    fix: build error
+
+[33mcommit a96efc0796765989e2ade66614344de1f69924a7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 16:43:22 2023 -0500
+
+    fix: build error
+
+[33mcommit cd2c5a81fd183aa5c835bc784bac041d7bdc6e5b[m
+Merge: b1aa7bd 140e0ef
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 16:38:52 2023 -0500
+
+    Merge pull request #77 from suhas-sunder/feature_data_management
+    
+    feat: adsense integration
+
+[33mcommit 140e0ef9aeb0a0439c979f13071d2cdb3373fdef[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 16:23:23 2023 -0500
+
+    feat: adsense integration
+
+[33mcommit b1aa7bd043c62717c2219254d67e2cd2095240e9[m
+Merge: 139d110 266a58f
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 01:53:11 2023 -0500
+
+    Merge pull request #76 from suhas-sunder/feature_data_management
+    
+    feat: Google Analytics
+
+[33mcommit 266a58fa5c6be1c1ec8e43593629ef6b54753b5a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 01:43:49 2023 -0500
+
+    feat: Google Analytics
+
+[33mcommit 139d1107a6af2422a5f0e0930da218d6900a1418[m
+Merge: 24b4d7f 9a4da4a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 01:25:40 2023 -0500
+
+    Merge pull request #75 from suhas-sunder/feature_data_management
+    
+    fix: colour contrast
+
+[33mcommit 9a4da4acfd37544f36271ba1dabc18b8c51ae384[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 01:25:13 2023 -0500
+
+    fix: colour contrast
+
+[33mcommit 24b4d7f35d441921d4e98bb597fb93bd71e82cee[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:54:16 2023 -0500
+
+    Rename Robots.txt to robots.txt
+
+[33mcommit b19e6241d1e2e911ee7c2681d8844fa97e52be12[m
+Merge: cb6f9af 39be803
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:42:58 2023 -0500
+
+    Merge pull request #74 from suhas-sunder/feature_data_management
+    
+    fix: sitemap
+
+[33mcommit 39be8038371ade6f7825ea7e8ff1e5b308e59712[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:42:16 2023 -0500
+
+    fix: sitemap
+
+[33mcommit cb6f9afda29eb27886abccc7a9fc18f22e81c26e[m
+Merge: 8db34fd 984332b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:33:37 2023 -0500
+
+    Merge pull request #73 from suhas-sunder/feature_data_management
+    
+    fix: button contrast issue
+
+[33mcommit 984332b25619fd478bdc3fbcfe0595ebdedfa556[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:33:07 2023 -0500
+
+    fix: button contrast issue
+
+[33mcommit 8db34fd8d89695eef47a978ea9542ff91b8a35d9[m
+Merge: d6acfda e362cbf
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:29:21 2023 -0500
+
+    Merge pull request #72 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit e362cbfaba90b34b4f5b2153931b0e821b095b42[m
+Merge: b6aae71 21de8a6
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:28:50 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit b6aae712b48f233284dabdb8ec69b432041429b7[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:24:31 2023 -0500
+
+    fix: increase colour contrast, add meta tag, & fix minor SEO & performance issues.
+
+[33mcommit 21de8a6961de2e66b94a59e9624eaf518e33cbcd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Dec 2 00:24:31 2023 -0500
+
+    fix: increase colour contrast, add meta tag, & fix minor SEO & performance issues.
+
+[33mcommit d6acfdaa5c2af263d096db4574cde7507c386f90[m
+Merge: 7dcc2ba 934352c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 1 23:44:48 2023 -0500
+
+    Merge pull request #71 from suhas-sunder/feature_data_management
+    
+    feat: sitemap.xml & robots.txt
+
+[33mcommit 934352cc4bb32bda47fe5bc0d87da72334e60aa6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 1 23:44:24 2023 -0500
+
+    feat: sitemap.xml & robots.txt
+
+[33mcommit 7dcc2bab9abfd1094c5bdd84eeb7e70e0fecc9a7[m
+Merge: 194e4c4 229ec7e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 1 22:16:14 2023 -0500
+
+    Merge pull request #70 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 229ec7e7295e724eb8082fa9328ff13dd90ce669[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 1 22:15:53 2023 -0500
+
+    styling: hide header
+    
+    -Hide header content when user is logged out, and show when user is logged in.
+
+[33mcommit ebb37aa7c3e320de05c887d08df40905e3a7290a[m
+Merge: 287d43b 194e4c4
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 1 20:05:30 2023 -0500
+
+    Merge pull request #69 from suhas-sunder/master
+    
+    Update branch
+
+[33mcommit 194e4c48b48a95186af356648021486e894f3534[m
+Merge: 9865efd 1dce0f3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 1 20:04:32 2023 -0500
+
+    Merge pull request #68 from suhas-sunder/difficultymenu
+    
+    style: responsive home page
+
+[33mcommit 1dce0f3fede3be1841b80cf659518227669d4371[m[33m ([m[1;31morigin/difficultymenu[m[33m, [m[1;32mdifficultymenu[m[33m)[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 1 20:01:40 2023 -0500
+
+    style: responsive home page
+    
+    -Add styling to make elements on the home page responsive.
+
+[33mcommit 9865efdefbcac1da0dbdf42aba185926ed08572a[m
+Merge: 6bd4fb5 287d43b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Dec 1 17:53:32 2023 -0500
+
+    Merge pull request #67 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 287d43bb3c5676348af5a1ba7b70c5841f2c4643[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 1 17:51:04 2023 -0500
+
+    refactor: header menu
+    
+    -Distribute header menu code into components.
+
+[33mcommit dc2a04c162abcdb6d781bb7657211b266cc2d08a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Dec 1 00:26:20 2023 -0500
+
+    styling: image links
+
+[33mcommit e5c9803984f6c35cc6df3f07ebddf33309e14ebc[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 30 23:11:21 2023 -0500
+
+    -style: header dashboard
+
+[33mcommit d71be4b0fc13aa5e7abd13c63b85ae4e04138961[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 30 00:28:56 2023 -0500
+
+    feat: header dashboard
+    
+    -Add profile image to header dashboard. -Add placeholders for user level information. -Add placeholders for user stats.
+
+[33mcommit 3f018d4af699fcb6f9bfe2374dda44489d74334b[m
+Merge: 8b8a970 430fcf1
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 19:07:30 2023 -0500
+
+    Merge branch 'feature_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_data_management
+
+[33mcommit 8b8a97018db18e3a463706968db1cd27fe1cdb9e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 18:39:27 2023 -0500
+
+    fix: layout shifting
+    
+    -Fix layout shifting for typing stats by adding a min width to each stat.
+
+[33mcommit 430fcf11286eb50de83a21c861fd4b717c3443b5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 18:39:27 2023 -0500
+
+    fix: layout shifting
+    
+    -Fix layout shifting for typing stats by adding a min width to each stat.
+
+[33mcommit 6bd4fb55d4458d95e0bcb6a317effd632494af35[m
+Merge: e4244ce 739f383
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 18:19:17 2023 -0500
+
+    Merge pull request #66 from suhas-sunder/feature_data_management
+    
+    fix: test timer
+
+[33mcommit 739f383fb2596db34065a26920b8f0de062685d9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 18:18:43 2023 -0500
+
+    fix: test timer
+    
+    -Fix bug where timer doesn't stop at 0 and displys negative values instead of ending the test.
+
+[33mcommit e4244cee6b3e4ba39775f5b096f860880cd642b8[m
+Merge: 934b2f9 87a67a4
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 17:55:32 2023 -0500
+
+    Merge pull request #65 from suhas-sunder/feature_data_management
+    
+    fix: timer update
+
+[33mcommit 87a67a43af9d4bfa3676a4251c6729cb9ba6d99d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 17:54:53 2023 -0500
+
+    fix: timer update
+    
+    -I was updating timer by calling a function to return a jsx with the timer value. This wasn't working on mobile. To fix the issue, I have moved the update values to state.
+
+[33mcommit 934b2f971fc31643c7b5b925a573d6a22f1ad016[m
+Merge: 5db728a 8f83751
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 17:34:56 2023 -0500
+
+    Merge pull request #64 from suhas-sunder/feature_data_management
+    
+    styling: typing stats
+
+[33mcommit 8f8375180e84fd332d7da4a1ba6fe7d6ba4213ac[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 17:34:33 2023 -0500
+
+    styling: typing stats
+    
+    -Add styling for typing stats for mobile responsive design.
+
+[33mcommit 5db728a5c0f671cce2a0cb02810098c0139384e6[m
+Merge: 604abbf e462ead
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:29:11 2023 -0500
+
+    Merge pull request #63 from suhas-sunder/feature_data_management
+    
+    Merge pull request #62 from suhas-sunder/master
+
+[33mcommit e462ead034c42f5bb6ac534a88f2344148e90c43[m
+Merge: 1b482be 604abbf
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:26:49 2023 -0500
+
+    Merge pull request #62 from suhas-sunder/master
+    
+    Update to latest
+
+[33mcommit 604abbff3ccda1832b88d9f45b0e4d9f9a6477b0[m
+Merge: df0bd4a c499a87
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:21:24 2023 -0500
+
+    Merge pull request #61 from suhas-sunder/feat_profile_pg
+    
+    Feat profile pg
+
+[33mcommit c499a8708e62d92e82729cd13510c0c9ec735406[m
+Merge: 0c6043b da3b644
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:20:45 2023 -0500
+
+    Merge branch 'feat_profile_pg' of https://github.com/suhas-sunder/typing-test-app into feat_profile_pg
+
+[33mcommit da3b6441a2fdaef010ff85e7137a9b4c78aebd3e[m
+Merge: bb651f0 df0bd4a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:20:33 2023 -0500
+
+    Merge pull request #60 from suhas-sunder/master
+    
+    Update branch
+
+[33mcommit 0c6043bc69a76dc61046ef1d827a9f5b81c8adfd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:19:56 2023 -0500
+
+    fix: testing for non-loading img bug on mobile.
+
+[33mcommit df0bd4a5a8929e6329afe139e2c56979adf35715[m
+Merge: 3c5194c bb651f0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:17:26 2023 -0500
+
+    Merge pull request #59 from suhas-sunder/feat_profile_pg
+    
+    test: testing for non-loading img bug.
+
+[33mcommit bb651f004a9248cf859a12a8d7ba785aa8a9bace[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 13:16:22 2023 -0500
+
+    test: testing for non-loading img bug.
+
+[33mcommit 3c5194c883ee1899d50cf51baa0b96e60f328814[m
+Merge: d687f8b b89b150
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:54:16 2023 -0500
+
+    Merge pull request #58 from suhas-sunder/feat_profile_pg
+    
+    fix: textarea offset on mobile when clicked
+
+[33mcommit b89b150219efd7c1bd09f9e0cf7b5bfc74e4e7a5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:53:50 2023 -0500
+
+    fix: textarea offset on mobile when clicked
+
+[33mcommit d687f8b55c812d6e7129615898681197b45a0c06[m
+Merge: 3c46832 ddaa215
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:47:41 2023 -0500
+
+    Merge pull request #57 from suhas-sunder/feat_profile_pg
+    
+    fix: text input
+
+[33mcommit ddaa21527c0817f96416812c63b31758e888e47a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:47:09 2023 -0500
+
+    fix: text input
+
+[33mcommit 3c468324898619d2fd5c3aa72194b5b9dc30ae33[m
+Merge: 0a8c90f fe10043
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:39:14 2023 -0500
+
+    Merge pull request #56 from suhas-sunder/feat_profile_pg
+    
+    fix: textarea focus
+
+[33mcommit fe10043201f5a8a00edd98b003fabb8443206aa1[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:38:47 2023 -0500
+
+    fix: textarea focus
+
+[33mcommit 0a8c90f33b1fefb5d782fcc67c88adfcfbfaa54a[m
+Merge: 4dbd6e0 2ad2f1c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:34:08 2023 -0500
+
+    Merge pull request #55 from suhas-sunder/feat_profile_pg
+    
+    Feat profile pg
+
+[33mcommit 2ad2f1ce0c7800596b9280fcae7a88c4372c99f7[m
+Merge: 89ac141 0793484
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:33:33 2023 -0500
+
+    Merge branch 'feat_profile_pg' of https://github.com/suhas-sunder/typing-test-app into feat_profile_pg
+
+[33mcommit 89ac14114c0e94bf6e88ed3bd34c533e92ec0e0b[m
+Merge: 2504c32 7a8eb33
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:29:01 2023 -0500
+
+    Merge branch 'feat_profile_pg' of https://github.com/suhas-sunder/typing-test-app into feat_profile_pg
+
+[33mcommit 4dbd6e0ca4a152a943960ce00869fcfc79c9d182[m
+Merge: c2ec9dc 0793484
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:30:41 2023 -0500
+
+    Merge pull request #54 from suhas-sunder/feat_profile_pg
+    
+    Feat profile pg
+
+[33mcommit 079348482ff603a26963128a55b04ae43351159c[m
+Merge: 2504c32 7a8eb33
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:29:01 2023 -0500
+
+    Merge branch 'feat_profile_pg' of https://github.com/suhas-sunder/typing-test-app into feat_profile_pg
+
+[33mcommit 2504c3223773d2a1cb0ef81df1863b11740f328c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:17:43 2023 -0500
+
+    gitfeat: textarea to trigger mobile keyboard
+
+[33mcommit c2ec9dcf34e39627526bbca7598a4a739355f167[m
+Merge: 18f6618 7a8eb33
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:18:40 2023 -0500
+
+    Merge pull request #53 from suhas-sunder/feat_profile_pg
+    
+    feat: textarea to trigger mobile keyboard
+
+[33mcommit 7a8eb33ee2a640637ec0d69c1a93680f2f3bc9f9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:17:43 2023 -0500
+
+    feat: textarea to trigger mobile keyboard
+
+[33mcommit 18f661838e8e6fc27240d78372b9a377cdaaf092[m
+Merge: 5f609ff 7c1f026
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:08:56 2023 -0500
+
+    Merge pull request #52 from suhas-sunder/feat_profile_pg
+    
+    Feat profile pg
+
+[33mcommit 7c1f026c7409db994a128fd575bb9cdabcf52a69[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 12:07:25 2023 -0500
+
+    styling: test menu
+    
+    -Add styling to test menu.
+
+[33mcommit 131c88c283c8e16fe024b4d284d213c599cbfb8a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 29 00:53:36 2023 -0500
+
+    styling: game over menu
+    
+    -Add styling to test score component.
+
+[33mcommit 2fb486c9734fa83aa14d08a3f674cf35e0add68f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 28 22:12:31 2023 -0500
+
+    refactor: game over menu
+    
+    -Move results summary to it's own component and re-arrange results in the form of a table. -Move test score summary to it's own component. -Add new styling to all elements on game over page.
+
+[33mcommit 5f609fff3664b21a292ff81ed046bef4e9636c7d[m
+Merge: 6b647f2 e670544
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Nov 28 00:08:44 2023 -0500
+
+    Merge pull request #51 from suhas-sunder/feat_profile_pg
+    
+    Feat profile pg
+
+[33mcommit e6705446d349df94db414615d9eda153ae988255[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 25 23:58:16 2023 -0500
+
+    fix: z-index
+    
+    feat: manage z-index of elements depending on user action.
+
+[33mcommit c61aad61bfd9860877dd98977b00e4c662e2493d[m
+Merge: 0c257d7 6b647f2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Nov 25 22:56:29 2023 -0500
+
+    Merge pull request #50 from suhas-sunder/master
+    
+    Update from master
+
+[33mcommit 0c257d761b4871e54f1cd228a8f6e89f1e4318c3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 25 22:54:44 2023 -0500
+
+    feat: sparkle hover effect
+    
+    -Add sparkle effect animation when image buttons are hovered. -Add a hook to manage mouseover events.
+
+[33mcommit 6b647f2b3ec1b6dd7a90d0690499156686f851cd[m
+Merge: 17193fd 675b0bd
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Nov 25 00:36:05 2023 -0500
+
+    Merge pull request #49 from suhas-sunder/feat_profile_pg
+    
+    feat: image links
+
+[33mcommit 675b0bdcc43446732cecf8c06e38005e05463524[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 25 00:35:42 2023 -0500
+
+    feat: image links
+    
+    -Add image links to home and profile page. -Add unique images for each unique image link.
+
+[33mcommit 17193fdfc55008121a799bf68b13732d6a1d4679[m
+Merge: c38d784 2ab28b1
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Nov 24 01:32:22 2023 -0500
+
+    Merge pull request #48 from suhas-sunder/feat_profile_pg
+    
+    feat: page routing
+
+[33mcommit 2ab28b131b58b6dc2dfbe8d83039be46474652c1[m
+Merge: 7c48fdb c38d784
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 24 01:31:54 2023 -0500
+
+    Merge branch 'master' of https://github.com/suhas-sunder/typing-test-app into feat_profile_pg
+
+[33mcommit 7c48fdb876a7b2dd3902aa29843fc0c6965291f0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 24 01:30:11 2023 -0500
+
+    feat: page routing
+    
+    -Add dashboard section routing based on url hash. Update menu data based on url hash to manage side-menu tab selection styling.
+
+[33mcommit c38d78488dd050933770421140a9288b040a9b67[m
+Merge: 55fc70f 3552bc8
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Nov 23 22:49:58 2023 -0500
+
+    Merge pull request #47 from suhas-sunder/feat_profile_pg
+    
+    fix: minor issues preventing build
+
+[33mcommit 3552bc865d7e6dc62ea8cd8c89ab4cde49c13396[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 23 22:49:38 2023 -0500
+
+    fix: minor issues preventing build
+
+[33mcommit 55fc70fc91bc508bfb20f4d345579ec43f5f3dcb[m
+Merge: 68fc8df a7c2e63
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Nov 23 22:44:11 2023 -0500
+
+    Merge pull request #46 from suhas-sunder/feat_profile_pg
+    
+    Feat profile pg
+
+[33mcommit a7c2e63982054c34dca99ff5eb946d6fe7aeb9bc[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 23 22:30:58 2023 -0500
+
+    styling: logout btn
+    
+    -Move logout button from profile page to to side nav-bar. -Add styling to logout btn.
+
+[33mcommit 7e19a780a3208624f5130ac6bf571d127ba21629[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 23 20:18:23 2023 -0500
+
+    styling: side menu
+    
+    -Add icons to side menu. Move side menu to ui folder. -Style all elements in side menu component.
+
+[33mcommit 19b5dd7a0321bd96e653b661ea66f82de54f1640[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 23 18:08:11 2023 -0500
+
+    feat: profile menu
+    
+    -Add basic elements to profile page. -Add placeholder for menu that will be used to navigate content on profile page. -Add styling to all elements on page.
+
+[33mcommit 68fc8df0279982b7dd5be6ba0c30d03fcda5ed61[m
+Merge: 4af6197 6340a0a
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 22 23:36:16 2023 -0500
+
+    Merge pull request #45 from suhas-sunder/feat_test_menu
+    
+    Feat test menu
+
+[33mcommit 6340a0aae9340fc4389ed80af4c06c6e44ca81ec[m[33m ([m[1;31morigin/feat_test_menu[m[33m, [m[1;32mfeat_test_menu[m[33m)[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 23:07:47 2023 -0500
+
+    fix: test settings
+    
+    -Fix order in which test settings are applied in order to preserve the proper case and punctuation.
+
+[33mcommit ff77b897ba82f21547781deef7481d3bdef248e8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 22:43:11 2023 -0500
+
+    feat: difficulty input name
+    
+    -Add form validation for difficulty input name so that duplicate setting names cannot be added.
+
+[33mcommit f422a6dff4fcf48b5197196b9c69de17fc79f673[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 22:15:36 2023 -0500
+
+    refactor: drop-down menu label
+    
+    -Allow difficulty setting name to be 24 characters instead of 9. -Shorten difficulty name on drop-down label if name is too long. -Add scroll bar to drop-down menu if too many items are added to list.
+
+[33mcommit 4af61971fbe34b3315c96048cd99e87f344d9157[m
+Merge: fe427d4 6d03c87
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 22 02:53:48 2023 -0500
+
+    Merge pull request #44 from suhas-sunder/feat_test_menu
+    
+    fix: modal position
+
+[33mcommit 6d03c87ebce3fa08dea34b8783ce60dd0769d9c9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 02:53:26 2023 -0500
+
+    fix: modal position
+
+[33mcommit fe427d49195506edc7a1de42d2d2f0e144b5a555[m
+Merge: 7d5de47 6c7375c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:51:24 2023 -0500
+
+    Merge pull request #43 from suhas-sunder/feat_test_menu
+    
+    fix: undo lock screen on modal
+
+[33mcommit 6c7375c3ad347361f559d324d678d2af1e2f2a60[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:50:48 2023 -0500
+
+    fix: undo lock screen on modal
+
+[33mcommit 7d5de4716b85355fcf1da6f9e48a0831978c30e9[m
+Merge: 79433db fe74f8e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:43:25 2023 -0500
+
+    Merge pull request #42 from suhas-sunder/feat_test_menu
+    
+    Feat test menu
+
+[33mcommit fe74f8eb11b708d0e4523116a8f56f9f428cd8bb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:43:08 2023 -0500
+
+    fix: server route url
+
+[33mcommit c84645ee449693d859c78294e0539d4b1e950f40[m
+Merge: 4945585 be602f0
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:41:49 2023 -0500
+
+    Merge branch 'feat_test_menu' of https://github.com/suhas-sunder/typing-test-app into feat_test_menu
+
+[33mcommit 4945585c82cf325537959c1c474e1dc5f9a67f71[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:39:48 2023 -0500
+
+    fix: change api server name
+
+[33mcommit 79433dbe29b8090373e67083aa94ef592a96f5dd[m
+Merge: 0926cfd be602f0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:40:26 2023 -0500
+
+    Merge pull request #41 from suhas-sunder/feat_test_menu
+    
+    fix: change api server name
+
+[33mcommit be602f0366f1b5fa9b952ea6a9a37aeb571e8e27[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 01:39:48 2023 -0500
+
+    fix: change api server name
+
+[33mcommit 0926cfd9ae04cba6637efa85367c4f8e4028cef3[m
+Merge: 87a9e60 3cce59c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Nov 22 00:55:10 2023 -0500
+
+    Merge pull request #40 from suhas-sunder/feat_test_menu
+    
+    Feat test menu
+
+[33mcommit 3cce59cc822761af0efab88804d4cb57c5a35120[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 00:53:58 2023 -0500
+
+    fix: tests
+    
+    -Fix all issues with failing tests.
+
+[33mcommit b97b0a2cf24c626813e00fc3ff9d538553af1637[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 22 00:04:38 2023 -0500
+
+    fix: update settings
+    
+    -Add user id to all server requests regarding menu settings so that the correct information is fetched/saved to database.
+
+[33mcommit 67e2b9b353bd81d6b10e1da69458458a02968ffd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 21 19:50:18 2023 -0500
+
+    fix: form inputs
+    
+    -Remove address and apartment inputs from details section and add description textarea input instead.
+
+[33mcommit f682b69b1a0c87ec5883d7113584ad2bd9dba472[m
+Merge: 2632829 01bdcfd
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 21 02:26:41 2023 -0500
+
+    Merge branch 'feat_test_menu' of https://github.com/suhas-sunder/typing-test-app into feat_test_menu
+
+[33mcommit 263282994de774f4a342e0e2b9788b0bb8ec384f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 21 02:17:39 2023 -0500
+
+    feat: delete setting from database
+
+[33mcommit 01bdcfda965381d6204733cc83345ddffa1916bb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 21 02:17:39 2023 -0500
+
+    feat: delete setting from database
+
+[33mcommit 363215af26fa73821c83be0191cd6c09f72d3269[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 21 00:02:27 2023 -0500
+
+    feat: create difficulty settings
+    
+    -Add logic to create new difficulty settings on database.
+
+[33mcommit a6812b1d887c4d4ae75ba4cffe55d29a45e3def5[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 22:49:36 2023 -0500
+
+    feat: update context difficulty settings
+    
+    -Setup menu provider context so that difficulty settings can be updated on database.
+
+[33mcommit 84366eef7249116e97444bb80086c8182b5f19d2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 20:24:37 2023 -0500
+
+    fix: duplicate menu id
+    
+    -Fix bug where duplicate id was being assigned to menu component when reused.
+
+[33mcommit 96234e8d6a1d6b6356cc40dba107f9763736d718[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 19:55:29 2023 -0500
+
+    fix: drop down menu
+    
+    -Fix bug where drop-down menu won't open sometimes because useRef wasn't updating when component re-rendered.
+
+[33mcommit f52a310c8b5cd737a564f9371f14a8e3e9c351c8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 19:30:00 2023 -0500
+
+    feat: toggle drop-down
+    
+    -Add click event listerner to close drop-down menu when a mousedown event occurrs outside the drop down menu component.
+
+[33mcommit 8249ce2613410b40a509e525a1bc7e085c37b590[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 14:35:08 2023 -0500
+
+    refactor: nav auth
+    
+    -Use context to manage auth state for nav bar instead of prop drilling.
+
+[33mcommit 87a9e600662ca157e1db2319930b692f9bac0e94[m
+Merge: 614ecc0 489e592
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Nov 20 01:01:50 2023 -0500
+
+    Merge pull request #39 from suhas-sunder/feat_test_menu
+    
+    Feat test menu
+
+[33mcommit 489e592bb3cae209d50d41615e6c806dd4cb5e18[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 01:01:09 2023 -0500
+
+    feat: menu settings
+    
+    -Configure difficulty settings on database. -Setup difficulty settings on server using a settings router.
+
+[33mcommit e87c4bc27052c3e3501f3c743c08bc531120f428[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 20 01:00:02 2023 -0500
+
+    feat: auth provider
+    
+    -Use context to keept track of and manage authentication state.
+
+[33mcommit db9097d80718bed1f64128f5e44184169b957e2b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Nov 19 01:02:06 2023 -0500
+
+    refactor: code cleanup
+
+[33mcommit b2a5764f43c0fac98a2550da38f13fb05c74b4e2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Nov 19 00:32:14 2023 -0500
+
+    feat: update settings using context
+    
+    -Update difficulty settings via the menu provider context.
+
+[33mcommit 781dc2ea216fd69e1bd7ebd0807779f4d304b067[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 18 20:38:09 2023 -0500
+
+    feat: context menu data
+    
+    -Use context to manage menu data.
+
+[33mcommit 195f133848bb01015a9a570d7dd9f32d079719cd[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 18 16:31:00 2023 -0500
+
+    refactor: calculate difficulty
+    
+    -Refactor calculate difficulty component so that it returns a value rather than rendering an element.
+
+[33mcommit f62ac8211dcb96ab0682e5848610f5be9c578536[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 18 15:30:43 2023 -0500
+
+    fix: build error
+    
+    -Disable all tests that are failing and causing a build error (will fix these tests later). -Add compression to build settings.
+
+[33mcommit cd2a9cb812810db6f7e46f2b076edb5d0433fce8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 18 00:15:47 2023 -0500
+
+    fix: drop-down menu label text
+    
+    -Fix drop-down label so that it displays the correct setting text and icon.
+
+[33mcommit 55d1b287b11fb0b6abaf5a0ac78c1cb655ecc749[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 23:24:53 2023 -0500
+
+    feat: delete custom settings
+
+[33mcommit 14cfc0b6db70ab90ed204ec9a85fbbb16bc5e65f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 22:47:21 2023 -0500
+
+    fix: difficulty settings list
+    
+    -Display difficulty settings list based on new settings object.
+
+[33mcommit f488417c410948a23390b80e52590e2cc22f0a16[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 22:43:34 2023 -0500
+
+    fix: difficulty settings modal
+    
+    -Refactor modal code to work with the breaking changes made to the difficulty settings data in previous commit.
+
+[33mcommit 7210f18562204de39e37ac02f755b6145197e364[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 20:19:29 2023 -0500
+
+    fix: update difficulty settings
+    
+    -Refactor code so that difficulty settings are updated in a object so that it can be managed using a Context api later.
+
+[33mcommit 8de12e0ab95a88f1e9331f3faa7789ce2bd067be[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 18:31:42 2023 -0500
+
+    refactor: difficulty menu
+    
+    -Refactor code to reduce redundancy.
+
+[33mcommit 9ce8a30f2ef1ec305f67acaa94ab7651917cfd01[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 16:20:36 2023 -0500
+
+    feat: calculate bonus score
+    
+    -Add utility function to calculate bonus score based on difficulty settings.
+
+[33mcommit 696b13f1fe254495d7b09a8e45aaf1f1ba2cc233[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 16:10:16 2023 -0500
+
+    feat: calculate difficulty utility
+    
+    -Add utility function to calculate difficulty. -Calculate and display difficulty level based on difficulty settings.
+
+[33mcommit 614ecc0e6e746dd29dbc0123ec259c8f401874e4[m
+Merge: 68411a7 f5f5959
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Nov 17 01:35:47 2023 -0500
+
+    Merge pull request #38 from suhas-sunder/feat_test_menu
+    
+    Feat test menu
+
+[33mcommit f5f59599519f0b8dc39d45449e9a16cd7366645d[m
+Merge: 2d881c2 2702cc8
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 01:34:52 2023 -0500
+
+    Merge branch 'feat_test_menu' of https://github.com/suhas-sunder/typing-test-app into feat_test_menu
+
+[33mcommit 2d881c282afd1a845bcda53ca9ba0a6b530fe7be[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 01:30:11 2023 -0500
+
+    feat: calculate bonus score
+    
+    -Calculate and display bonus score based on difficulty settings. -Replace input checkboxes with custom checkboxes.
+
+[33mcommit 2702cc8c33bc83e4efd3980436f5f34ff23dcf6a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 17 01:30:11 2023 -0500
+
+    feat: calculate bonus score
+    
+    -Calculate and display bonus score based on difficulty settings. -Replace input checkboxes with custom checkboxes.
+
+[33mcommit abf4f6b59ac18d3eeb2a6fb8bb152da7513e0481[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 16 22:52:47 2023 -0500
+
+    refactor: difficulty settings
+    
+    -Refactor code to reduce redundancy.
+
+[33mcommit a7f95da2306d4eb356257f34388986a5b92b4878[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 16 19:06:38 2023 -0500
+
+    refactor: difficulty settings menu
+    
+    -Fix bug with tooltip displaying wrong information. -Hide empty settings div when difficulty settings are empty.
+
+[33mcommit 8bad9ffacf1a0204a706bb26caf0602387e9cd3f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Nov 15 01:14:26 2023 -0500
+
+    feat: custom difficulty menu
+
+[33mcommit 80786c6e8d768a792b3b44a3f14f298cc2588fb0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 14 23:22:13 2023 -0500
+
+    feat: difficulty presets
+    
+    -Add custom presets to each difficulty setting, and display them according to the difficulty selected.
+
+[33mcommit d9517261a353cffe17b61bce1047c1c169800b0d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 14 20:12:18 2023 -0500
+
+    refactor: difficulty settings
+
+[33mcommit e48de1c87b1fadfd7e09418be7492ca85678b231[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 13 22:51:03 2023 -0500
+
+    refactor: difficulty settings
+    
+    -Move difficulty settings component to start menu. -Add drop-down menu to difficulty settings. -Add button to difficulty settings component to create new settings.
+
+[33mcommit 34ae3e79594dc850f138f287bd18f3e534479025[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 13 19:39:11 2023 -0500
+
+    fix: minor edits
+
+[33mcommit 87e1f1d316f5e69ba89dbc22107ea2ef6d1924f8[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Nov 7 16:44:05 2023 -0500
+
+    refactor: game over menu
+    
+    -Adjust text and styling to make menu look more appearling.
+
+[33mcommit b3dc569c4d7e533250a797fb23245426729021ba[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 6 23:12:34 2023 -0500
+
+    refactor: game over menu
+    
+    -Adjust text and styling to make menu look more appearling.
+
+[33mcommit 84ad3aaf6f1ef747bbbb7d8104ae8f541c32b9a3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 6 22:11:51 2023 -0500
+
+    test: droop down menu
+    
+    -Add tests to check if every element is rendered. -Add tests to check for elements that should not be rendered. -Add tests to check user events.
+
+[33mcommit b12d386ac0768a59ca9d30de939ce8ba0b23c627[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 6 21:05:42 2023 -0500
+
+    refactor: difficulty menu
+    
+    -Consolidate difficulty menu into drop down menu and delete difficulty menu.
+
+[33mcommit ac6136dcb0d673220c1089d3a154a4611ab6b227[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 6 20:58:00 2023 -0500
+
+    test: time options
+    
+    -Add tests to check that all elements are rendered.
+
+[33mcommit 68411a70d0d1bb61bb76935affa818dc6c03ed7a[m
+Merge: b500c6d 74a3a45
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Nov 6 20:35:31 2023 -0500
+
+    Merge pull request #37 from suhas-sunder/feat_test_menu
+    
+    fix: remove dependencies from deleted compoment
+
+[33mcommit 74a3a459e55f6bc3792fbaba056a398ffca0cac1[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 6 20:34:29 2023 -0500
+
+    fix: remove dependencies from deleted compoment
+
+[33mcommit b500c6d443ea1ffd899f3168466648e7131c42a9[m
+Merge: 8181649 91fa628
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Nov 6 20:30:32 2023 -0500
+
+    Merge pull request #36 from suhas-sunder/feat_test_menu
+    
+    Feat test menu
+
+[33mcommit 91fa6289a2c0f46d311409f00e2905c5221f10cb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Nov 6 20:29:12 2023 -0500
+
+    feat: difficulty settings modal
+    
+    -Add difficulty settings modal placeholder. -Change styling on compoments that are set with position relative so that they are not blocking difficulty settings modal from expanding to full page length/width.
+
+[33mcommit c7f1b020ba15d59e5b41c91dd4824520499f4947[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Nov 5 20:30:50 2023 -0500
+
+    fix: unwanted state
+    
+    -Remove unwanted state for managing selected index, and use existing menu data to manage it instead.
+
+[33mcommit da6b67218db81ed013882654e89aa84a29bb9441[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Nov 5 20:09:39 2023 -0500
+
+    feat: update difficulty settings
+    
+    -Update difficulty label icon and difficulty settings when changed.
+
+[33mcommit de0058794bfa53b82277228bce0059e206ff6a1a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sun Nov 5 19:19:24 2023 -0500
+
+    refactor: difficulty settings
+
+[33mcommit 3e4b7db5a434e8a55f89d99e527a75e879d3e615[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 22:06:43 2023 -0400
+
+    feat: custom drop-down menu
+    
+    -Add drop down menu component to manage drop-down. -Add drop-down label to display label text and/or icon. -Add drop-down list. -Add styling for all components.
+
+[33mcommit fdf822fedb3f4eaf695763658729a3750b10b7e2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 19:07:45 2023 -0400
+
+    style: difficulty menu
+
+[33mcommit 8181649e5f69f90b70505f40fa0e7fe2c27f8165[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:53:58 2023 -0400
+
+    Rename TextBox.tsx to Textbox.tsx
+
+[33mcommit 5558eab4cc382c550857a8bf6412c9872d5b8538[m
+Merge: 53f3fe9 514883c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:51:56 2023 -0400
+
+    Merge pull request #35 from suhas-sunder/feat_test_menu
+    
+    fix: textbox test
+
+[33mcommit 514883c8120b737c2171524e4b97e24d06212f46[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:51:32 2023 -0400
+
+    fix: textbox test
+    
+    -Fix textbox test that was causing a build error by adding missing props.
+
+[33mcommit 53f3fe9b47d98b6f613099c9c4b7341f22be7acf[m
+Merge: 2dec9f3 114e181
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:35:07 2023 -0400
+
+    Merge pull request #34 from suhas-sunder/feat_testing_accessability
+    
+    Feat testing accessability
+
+[33mcommit 114e181ee8d6c99c248f7834623437c88767e255[m
+Merge: 9660dd6 9a52fd3
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:34:30 2023 -0400
+
+    Merge branch 'feat_testing_accessability' of https://github.com/suhas-sunder/typing-test-app into feat_testing_accessability
+
+[33mcommit 9660dd6d8033a4f8e6913407f0a7b546ef0c056b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:19:03 2023 -0400
+
+    refactor: position relative
+    
+    -Add relative position to all relevant elements.
+
+[33mcommit 2dec9f3d9002e3dcb23d2ce5bc418d2dd54cc195[m
+Merge: 1671753 9a52fd3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:23:11 2023 -0400
+
+    Merge pull request #33 from suhas-sunder/feat_testing_accessability
+    
+    Feat testing accessability
+
+[33mcommit 9a52fd368a6f9740bf93a6dcbc0a336abcd81352[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 17:19:03 2023 -0400
+
+    refactor: position relative
+    
+    -Add relative position to all relevant elements.
+
+[33mcommit 9f904966058b570dbbb2dbfa9a5c3ce3f5c75712[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 16:46:34 2023 -0400
+
+    feat: button component
+    
+    -Add button component to rednder a button. -Refactor all buttons with button component.
+
+[33mcommit 416b17da21ca1bf187aaf2554836aa38b4e50995[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 15:53:08 2023 -0400
+
+    feat: icon utility
+    
+    -Add icon utility component that sorts and returns an icon. -Refactor all icons to use icon utility component.
+
+[33mcommit dabbb35ff433f05c341926b974adf9ccf8740ceb[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 13:40:33 2023 -0400
+
+    test: utility components
+
+[33mcommit a01b61988212f973fc63976b2697b998c9417ee0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 13:25:25 2023 -0400
+
+    test: capitalize odd chars
+
+[33mcommit 23049799d8c223cb9901b167e63d867eb916522e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Sat Nov 4 13:14:14 2023 -0400
+
+    text: fix all failing tests
+
+[33mcommit bd22904b1916ca94fa4f933617d49e4f4cef649d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Nov 3 16:31:53 2023 -0400
+
+    test: login form & inputs
+    
+    -Add tests to check if all elements are rendered. -Add tests to check if appropriate attributes are assigned to elements. -Add tests to check for elements that should not be rendered or displayed.
+
+[33mcommit 78f9aa45f7434d70fa18c7a5af6d25ef8ddeabaf[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 23:54:16 2023 -0400
+
+    test: Login Form Inputs
+
+[33mcommit cf7b543306c5428e7085e1053c5963b7593bdc08[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 23:37:25 2023 -0400
+
+    refactor: login
+    
+    -Change login with username and email to just login with email. -Update server side code to change everything related to usernameandemail to be validated solely through email.
+
+[33mcommit 3933dd817876ac805bf99a5f2306a400169dc941[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 22:39:18 2023 -0400
+
+    test: main menu and start menu
+    
+    -Add tests to check if all elements are rendered. -Add tests to check user events.
+
+[33mcommit acf7523d127cb5747be18931cf601d989722417e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 22:08:24 2023 -0400
+
+    test: main menu
+    
+    -Add tests to check if all elements are rendered.
+
+[33mcommit 18068a713adc03972da051cc3ecf55e37985e28d[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 21:24:01 2023 -0400
+
+    test: footer
+    
+    -Check if all elements are rendered.
+
+[33mcommit a8e6b0a0b9fa010e01e3c97de6247d9ec0ae53f6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 20:12:44 2023 -0400
+
+    test: Typing Stats
+    
+    -Add tests to check if all elements are rendered. -Add tests to check if somets do not render by default. -Add tests to check if correct stat values are displayed. -Add tests to check if game over menu elements are rendered. -Add tests to check game over menu's element  attributes. -Add tests to check game over menu's user events.
+
+[33mcommit 94ae5cc2021b7a43794ae0aaa596b4cb7cc03482[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 20:12:28 2023 -0400
+
+    test: Typing Stats
+    
+    -Add tests to check if all elements are rendered. -Add tests to check if somets do not render by default. -Add tests to check if correct stat values are displayed. -Add tests to check if game over menu elements are rendered. -Add tests to check game over menu's element  attributes. -Add tests to check game over menu's user events.
+
+[33mcommit cd4a2efc31caa04e8814e6a92ce64a6851e15a81[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 19:40:24 2023 -0400
+
+    test: game over menu
+    
+    -Add tests to check if all elements are rendered. -Add tests to check if elements have the correct attribute. -Add test to check user events.
+
+[33mcommit 468f8d7581cc7c1fbb9f023a69af23c1df5a3832[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 19:04:31 2023 -0400
+
+    test: logout button
+    
+    -Add tests to check if all elements are rendered. -Add test to check user event.
+
+[33mcommit a3918cb303cda132fea8e504f9fdfec67e215ec3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 17:29:05 2023 -0400
+
+    refactor: navigation
+    
+    -Move navigation folder into components folder.
+
+[33mcommit fe2a9da993d01d9c4a247ed970a9a37ea69ef7c4[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 17:05:07 2023 -0400
+
+    refactor: main menu
+
+[33mcommit 16717530d80c4d00450c607aa9b3b95b2c938b59[m
+Merge: fc393c6 461979d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Nov 2 15:20:47 2023 -0400
+
+    Merge pull request #32 from suhas-sunder/feature_navigation
+    
+    Feature navigation
+
+[33mcommit 461979d9ccbf9f95eb9637831ffd91826b7c5e21[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Nov 2 15:18:51 2023 -0400
+
+    refactor: start menu
+    
+    -Refactor start menu into smaller components. -Add styling to elements.
+
+[33mcommit 5c1dc97017b0d82f0d5b123adaec26b7e63f6b18[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Oct 31 16:53:18 2023 -0400
+
+    styling: game over menu
+
+[33mcommit 8e49f8ef4383115933babee51cd8ce4ca3e49296[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 22:02:08 2023 -0400
+
+    refactor: text box styling
+
+[33mcommit 4e22f84986d7c0ff8451e1cabd3ab3c3245d56c0[m
+Merge: eae1d10 39ab9e5
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 20:34:09 2023 -0400
+
+    Merge branch 'feature_navigation' of https://github.com/suhas-sunder/typing-test-app into feature_navigation
+
+[33mcommit eae1d10298b1c8325e29edc404e789b910c781e9[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 20:33:38 2023 -0400
+
+    style: main menu
+    
+    -Style main menu for small screens.
+
+[33mcommit 39ab9e529f10720d29118eef06df91d96958793c[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 20:33:38 2023 -0400
+
+    style: main menu
+    
+    -Style main menu for small screens.
+
+[33mcommit 31fbe5542161b0dffe9aa91d4b7281a36457c4db[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 19:55:26 2023 -0400
+
+    refactor: placeholder test settings
+    
+    -Refactor menu test settings to make it easier to understand. -Add placeholders for test settings that are to be implemented.
+
+[33mcommit 43a41d46ea0bf3ee757e66ede8c2b907cdbe95e3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 18:39:59 2023 -0400
+
+    refactor: main menu
+    
+    -Add utility functions for capitalizing odd characters, generating random number, and manipulating strings by refactoring related code from main menu.
+
+[33mcommit 033152f49a05289cc01f21d36695a84b21c624e6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 16:32:39 2023 -0400
+
+    refactor: test menu styling
+
+[33mcommit 8567dbdcdc01faef1c90f7fd51971f254cd43f1a[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 16:04:25 2023 -0400
+
+    refactor: advancted test settings
+    
+    -Remove irrelevant settings and only include relevant ones. -Add additional settings for complex words, complex punctuation, and complex numbers. -Add and configure settings to remove whitespace, remove punctuation, and  make all text uppercase or lowercase. -Move advanced test settings to it's own component.
+
+[33mcommit fb77753245c78c475d0920a4660d2ce17b8868d3[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 30 14:13:48 2023 -0400
+
+    refactor: game over state
+
+[33mcommit fc393c64049a935e0cac0f0b8963b3b7f49e2319[m
+Merge: 9fdfebf 70be2fd
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 28 13:57:03 2023 -0400
+
+    Merge pull request #31 from suhas-sunder/feature_navigation
+    
+    Feature navigation
+
+[33mcommit 70be2fd560a619aa3a6fa2205fb860f40df3a08b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 17:29:36 2023 -0400
+
+    refactor: tests
+
+[33mcommit 440c85671270839da7c95a031e675254164436d1[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 17:09:33 2023 -0400
+
+    refactor: game over menu tests
+
+[33mcommit 727e9e6c989b6b7f8ce66af763c5620358afd98b[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 16:50:35 2023 -0400
+
+    refactor: tests for nav bar, profile menu, and login links.
+
+[33mcommit 062e0e49c04c904663f3f5f204917847d851e9b9[m
+Merge: 7878cba fcccdb9
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 16:26:07 2023 -0400
+
+    Merge branch 'feature_navigation' of https://github.com/suhas-sunder/typing-test-app into feature_navigation
+
+[33mcommit 7878cba9429d55439e286802acdf54bc6be1521f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 16:24:01 2023 -0400
+
+    test: profile menu
+    
+    -Add test to check if all elements render as intended. -Add tests to check if all elements render with correct attributes.
+
+[33mcommit fcccdb983d5c472baccf74f4a6d6bc0392f48ee6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 16:24:01 2023 -0400
+
+    test: profile menu
+    
+    -Add test to check if all elements render as intended. -Add tests to check if all elements render with correct attributes.
+
+[33mcommit 9c3f0be470426064e1ffc7ab779ea3a3b6e5acc1[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 16:08:31 2023 -0400
+
+    refactor: tests for login and main nav links
+
+[33mcommit 32f001257e53c5f91dc8ed0b2c0861b77f6af946[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:46:14 2023 -0400
+
+    refactor: navbar tests
+
+[33mcommit 2ec9c7ef8ea734c2b544ed52e4807e7d68b3508c[m
+Merge: fcc0756 8337ee2
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:24:30 2023 -0400
+
+    Merge branch 'feature_navigation' of https://github.com/suhas-sunder/typing-test-app into feature_navigation
+
+[33mcommit fcc0756e3f77e0cd660f281b9790a1ae49f9a93f[m
+Merge: ae89a6c 9da317e
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:21:16 2023 -0400
+
+    Merge branch 'feature_navigation' of https://github.com/suhas-sunder/typing-test-app into feature_navigation
+
+[33mcommit 8337ee2680476ce0c43e3274c0cc5afa58daa030[m
+Merge: ae89a6c 9da317e
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:21:16 2023 -0400
+
+    Merge branch 'feature_navigation' of https://github.com/suhas-sunder/typing-test-app into feature_navigation
+
+[33mcommit ae89a6cef5b0a25a66937684f31e8e993d518988[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:20:43 2023 -0400
+
+    refactor: test for main links
+
+[33mcommit 9da317ec4cfe86b19ddbe5344c42cc517cc3a462[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:20:43 2023 -0400
+
+    refactor: test for main links
+
+[33mcommit c273ea1d9de3c152f634351a52b768a921a5d60e[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:13:46 2023 -0400
+
+    test: logo link
+    
+    -Add test to check if all elements render as intended. -Add test to check if function props are called as intended. -Add test to check if link renders with an appropriate redirect.
+
+[33mcommit ae5742f5e09e0ac04e7c6b7bcb4d1991fb70ed6f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 27 15:04:00 2023 -0400
+
+    refactor: test for login links.
+
+[33mcommit 3d65b051ee029888c7f98e9be56fd829f76cfc31[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 26 17:12:27 2023 -0400
+
+    test: Login Links
+    
+    -Add tests to check if login links render as intended. -Add tests to check if function props are called as intended.
+
+[33mcommit 6acecd707e521872ce2c4ae8304da0bae4d32c17[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 26 15:05:00 2023 -0400
+
+    test: MainLinks
+    
+    -Add tests that check if all elements render properly. -Add tests that check if elements don't render when they shouldn't. -Add tests that check if function props are called as intended based on user action.
+
+[33mcommit 178f4624b8289b56e9c4552d8bda00d9ad5e82d6[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 26 13:45:11 2023 -0400
+
+    styling: burger menu
+    
+    Add MUI burger icons to burger menu for open and closed states.
+
+[33mcommit 3324483f9d5e17e5fe8750b7a4c28ede54cb9fe2[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 26 13:30:38 2023 -0400
+
+    feat: mobile login & logout
+    
+    -Add login menu to mobile menu and hide from main menu for smaller screens. -Hide login menu from mobile menu when user is logged in. -Create logout button component. -Add logout button component to mobile menu when user is logged in.
+
+[33mcommit e93f4c4d6a320f33b3f6cda37c8f1e65322351e7[m
+Merge: 9fdfebf fc3e43a
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Oct 25 17:15:02 2023 -0400
+
+    Merge branch 'feature_navigation' of https://github.com/suhas-sunder/typing-test-app into feature_navigation
+
+[33mcommit 9fdfebf6cb3c7c249a007c33f90d989d26888eac[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Oct 25 16:19:43 2023 -0400
+
+    feat: mobile nav
+    
+    -Hide main nav on mobile screens, and display it only when burger menu is toggled. -Hide profile stats at 540px. -Shorten logo at 360px. -Add state to manage opening and closing mobile nav menu. -Close nav menu when a link is clicked, or if any area outside the mobile nav menu is clicked. -Manage checked state through state as well as css so that burger menu toggles as intended.
+
+[33mcommit fc3e43a2853ce5774b9b4512befb829b184712ed[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Oct 25 16:19:43 2023 -0400
+
+    feat: mobile nav
+    
+    -Hide main nav on mobile screens, and display it only when burger menu is toggled. -Hide profile stats at 540px. -Shorten logo at 360px. -Add state to manage opening and closing mobile nav menu. -Close nav menu when a link is clicked, or if any area outside the mobile nav menu is clicked.
+
+[33mcommit 50a8a83700fd4278af7128f5008cfb5b14ef9b77[m
+Merge: c099afa 1b482be
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Oct 24 15:44:26 2023 -0400
+
+    Merge pull request #30 from suhas-sunder/feature_data_management
+    
+    Feature data management
+
+[33mcommit 1b482bed1d9781165da0fdff181bc6e46a4b6555[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Tue Oct 24 15:43:49 2023 -0400
+
+    fix: firefox CSS bug
+    
+    -Fix styling for main-menu where checkbox labels won't get styled since Firefox doesn't support :has() CSS selector. -Fix bug where game over menu won't display on firefox, since the timeout function fires one second too early.
+
+[33mcommit 80e9f1d98479f5df2ee0999e1830abac58e5a943[m
+Merge: d3c7be8 c099afa
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 23:56:09 2023 -0400
+
+    Merge pull request #29 from suhas-sunder/master
+    
+    Update latest changes from master branch.
+
+[33mcommit c099afa7f732857c17fa040b1ce71df1320c881d[m
+Merge: 7e93ebe 7361ec2
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 23:55:18 2023 -0400
+
+    Merge pull request #28 from suhas-sunder/feature_typing_test
+    
+    Feature typing test
+
+[33mcommit 7361ec2ce7355c70c7c8c70a7990661929b78628[m[33m ([m[1;31morigin/feature_typing_test[m[33m, [m[1;32mfeature_typing_test[m[33m)[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 23 23:54:05 2023 -0400
+
+    style: test results
+    
+    -Style test results to be displayed neatly to the player.
+
+[33mcommit af117ac0eb5b488a55e9b208db2689a2a31c4b3f[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 23 22:59:10 2023 -0400
+
+    styling: menu & text box
+    
+    Scale down all main menu elements so it looks reasonable on large screens. -Scale down font size in text box and reduce width of each character. -Adjust width accordingy within typing logic to compensate for change in size.
+
+[33mcommit 0d68e4b4e343d3ee7291151fff14977570f58469[m
+Merge: 381aa9c 7e93ebe
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 21:44:00 2023 -0400
+
+    Merge pull request #27 from suhas-sunder/master
+    
+    Merge pull request #26 from suhas-sunder/feature_typing_test
+
+[33mcommit 7e93ebeaf4db23dee495246e7fee7705e8df8964[m
+Merge: d3c7be8 381aa9c
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 21:43:12 2023 -0400
+
+    Merge pull request #26 from suhas-sunder/feature_typing_test
+    
+    Merge pull request #25 from suhas-sunder/master
+
+[33mcommit 381aa9c781e15fe431f90c2626dd7a2c874186f6[m
+Merge: 6ce9803 d3c7be8
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 21:42:03 2023 -0400
+
+    Merge pull request #25 from suhas-sunder/master
+    
+    Update Local Branch
+
+[33mcommit d3c7be81ae6833d89f21285a2cc1694007b405d4[m[33m ([m[1;31morigin/feature_routing[m[33m, [m[1;31morigin/feature_proj_init[m[33m, [m[1;32mfeature_routing[m[33m, [m[1;32mfeature_proj_init[m[33m)[m
+Merge: bfbda4a 365cbe3
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:27:45 2023 -0400
+
+    Merge pull request #24 from suhas-sunder/feature_navigation_ver_1
+    
+    fix for prod build
+
+[33mcommit 365cbe3ecc19f9ec0402bb6ea13d313a27cadd89[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:27:14 2023 -0400
+
+    fix for prod build
+
+[33mcommit bfbda4ade580b19d970dcb0b08e76dae235051b3[m
+Merge: 636daf5 30a8074
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:23:53 2023 -0400
+
+    Merge pull request #23 from suhas-sunder/feature_navigation_ver_1
+    
+    Feature navigation ver 1
+
+[33mcommit 30a8074565b18d9f7944da3dc13f271bea288204[m
+Merge: 34cd734 133cb9e
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:07:18 2023 -0400
+
+    Merge branch 'feature_navigation_ver_1' of https://github.com/suhas-sunder/typing-test-app into feature_navigation_ver_1
+
+[33mcommit 34cd734a94e3834133d3d1fa33b9a98d77f17b84[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:07:11 2023 -0400
+
+    Latest update for prod
+
+[33mcommit 133cb9e4d5967d9b4288477efe2859f04c272398[m
+Merge: 07be5f1 636daf5
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:05:19 2023 -0400
+
+    Merge pull request #22 from suhas-sunder/master
+    
+    Update branch
+
+[33mcommit 636daf59647e35207eb6639c2768428733b5b096[m
+Merge: bfc61a0 07be5f1
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:04:15 2023 -0400
+
+    Merge pull request #21 from suhas-sunder/feature_navigation_ver_1
+    
+    styling: global nav
+
+[33mcommit bfc61a002ffb649011511333897b1d78cc1271fe[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Oct 23 20:03:01 2023 -0400
+
+    Update README.md
+
+[33mcommit 07be5f1ddde1d0e1dea5f1b627466590b2b74aaf[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Fri Oct 20 22:16:00 2023 -0400
+
+    styling: global nav
+    
+    -Add icons to all relevant  nav elements. -Highlight icons, border, and part of logo on hover and on active state. -Remove dashboard link, and route profile menu to profile page.
+
+[33mcommit e789b47f43c3c41df93bb152f50e1c1a60fd08a3[m
+Merge: e2fc1b0 8b978ef
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Oct 19 15:26:58 2023 -0400
+
+    Merge pull request #20 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit 8b978ef417587bde37b9a4fb3f88f5acbd2a9d37[m
+Merge: 72ddf05 e0cc138
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 19 15:25:56 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit 72ddf052b65ea51eb2215d951ecf2ac38ab82f50[m
+Merge: 5d2ca5f 4f73d08
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 19 14:58:07 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit e0cc1380fdfd4acae160db28db5585d5b931963d[m
+Merge: 5d2ca5f 4f73d08
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 19 14:58:07 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit 5d2ca5f019f05823814fdd09987164d1383f4898[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 19 00:50:04 2023 -0400
+
+    fix: char validity tracking
+    
+    -Add empty array of strings based on test length when charIsValid is reset to fix bug that doesn't track char validity.
+
+[33mcommit 4f73d0858e64f734341c429cdf3d6b862bfd4f83[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 19 00:50:04 2023 -0400
+
+    fix: char validity tracking
+    
+    -Add empty array of strings based on test length when charIsValid is reset to fix bug that doesn't track char validity.
+
+[33mcommit f6cec1c18a40e294613b02aa38cac8ff9cc5fcc0[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Thu Oct 19 00:25:15 2023 -0400
+
+    fix: move stats back
+    
+    Move stats back to Typing Stats component to prevent unnecessary re-renders. Nest GameOverMenu within Typing Stats instead of Main Menu to utilize stats data.
+
+[33mcommit 41f7a09600e56a85344cf5e3235eabb95811b6da[m
+Author: suhas-sunder <suhas@live.ca>
+Date:   Wed Oct 18 23:50:40 2023 -0400
+
+    refactor: scores
+    
+    -Move stats to main menu component so it can be passed down to game over menu. Update stats in main menu component.
+
+[33mcommit 49be11b13ea7286210bacaea2edf99e38ae8d69a[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Mon Oct 16 13:27:53 2023 -0400
+
+    refactor: routing
+    
+    -Add routing back to login page when user logs out. -Display profile nav link only when user is logged in. -Display login and register page only when user is logged out. -Add nav link to leaderboard page.
+
+[33mcommit e2fc1b04a18ae0431835a28cf1060bfd87673d8d[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 22:47:42 2023 -0400
+
+    Update README.md
+
+[33mcommit 1d6d7acf3da3abe39dea68c90e267a78838c1da9[m
+Merge: 0147cc8 73f7656
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 21:53:05 2023 -0400
+
+    Merge pull request #19 from suhas-sunder/feature_ver_4_data_management
+    
+    fix: config cors policy for prod
+
+[33mcommit 73f765611dd83d7d67c4a54fa521a78461385317[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 21:52:36 2023 -0400
+
+    fix: config cors policy for prod
+
+[33mcommit 0147cc829463b7fc8c65ce7afa253deaf04ccff0[m
+Merge: 13533bd b2e7289
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 02:00:51 2023 -0400
+
+    Merge pull request #18 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit b2e7289d66dd54e4f58dfc6f49decfc2130903b3[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 01:59:11 2023 -0400
+
+    fix: Add autherization token to axios request.
+
+[33mcommit 525aa6522ecd191e6e3e3f3961f4d73f924bffcf[m
+Merge: f78f5ef 42da033
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 01:40:58 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit f78f5efc4651bff5f7ee63f5dfad43930771c877[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 01:40:49 2023 -0400
+
+    fix: stringify token before adding to axios header.
+
+[33mcommit 13533bd4a7e332090613a381542116e643c8277a[m
+Merge: 2c32ee0 42da033
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 01:32:56 2023 -0400
+
+    Merge pull request #17 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit 42da03355ce08ff1d55b83ad5f38ad5dec30a4fd[m
+Merge: 0c8d256 2c32ee0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 01:32:35 2023 -0400
+
+    Merge pull request #16 from suhas-sunder/master
+    
+    Merge pull request #15 from suhas-sunder/feature_ver_4_data_management
+
+[33mcommit 0c8d256d4f11c20e0b95ea467abe6fb2de92e286[m
+Merge: 03a9411 8707087
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 01:32:04 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit 03a941164e1d9ec6e8cfe8a41d7cffba763aeefa[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 01:31:58 2023 -0400
+
+    fix: add content-type to axios headers.
+
+[33mcommit 2c32ee0cc7002acc36e815c404eb6a8da6c39c0a[m
+Merge: 2a4d50f 8707087
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 01:27:55 2023 -0400
+
+    Merge pull request #15 from suhas-sunder/feature_ver_4_data_management
+    
+    update: console logs for checking local storage to debug issue in prod.
+
+[33mcommit 870708722bc6abf3477e53cf604d30001b4710fe[m
+Merge: 10ae7e0 2a4d50f
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Oct 14 01:27:50 2023 -0400
+
+    Merge branch 'master' into feature_ver_4_data_management
+
+[33mcommit 10ae7e0a12104449bed214652a8108d9791958d2[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 14 01:26:16 2023 -0400
+
+    update: console logs for checking local storage to debug issue in prod.
+
+[33mcommit 2a4d50f84a8577932ed8af03fc4a6e9ff06d469f[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Oct 13 21:49:27 2023 -0400
+
+    fix: prep url for deployment
+
+[33mcommit 66dcc096e20d7693a446e06f8dccf042ea35fda7[m
+Merge: 99fc3db df4ee4d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Oct 13 14:29:55 2023 -0400
+
+    Merge pull request #14 from suhas-sunder/feature_ver_4_data_management
+    
+    fix: cors
+
+[33mcommit df4ee4dc82fbf22c9a608983b8c4b84881a5d6a7[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Oct 13 14:29:02 2023 -0400
+
+    fix: cors
+
+[33mcommit 99fc3dbc3e5bce3b716ffa23da152b9d8deab202[m
+Merge: b87bd47 b380511
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Oct 13 14:24:59 2023 -0400
+
+    Merge pull request #13 from suhas-sunder/feature_ver_4_data_management
+    
+    fix: server cors urls
+
+[33mcommit b3805115616a8516ccdfb69884ab126141478490[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Oct 13 14:22:53 2023 -0400
+
+    fix: server cors urls
+
+[33mcommit b87bd4766250eb0e47b82202f7268a3461799603[m
+Merge: 819cb7b c0ed9c5
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Oct 13 13:41:11 2023 -0400
+
+    Merge pull request #12 from suhas-sunder/feature_ver_4_data_management
+    
+    refactor: axios & production url
+
+[33mcommit c0ed9c5e0f9ced38e9895eac32a81f1f82f54e18[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Oct 13 13:35:31 2023 -0400
+
+    refactor: axios & production url
+    
+    -Add baseURL to api folder for axios defaults and set a base url for both development and production. -Refactor fetch API code to axios code for login, register, app, and dashboard components. -Refactor server code to accept res.body.data instead of just res.body to account for axios request.
+
+[33mcommit 819cb7bf0c416f9533e4a482990ad4830b6dca05[m
+Merge: 25a24f9 69ba6a4
+Author: root <suhas@live.ca>
+Date:   Fri Oct 13 01:54:06 2023 +0000
+
+    Merge branch 'master' of https://github.com/suhas-sunder/typing-test-app
+    This commit is to update the hosted files on digital ocean.
+
+[33mcommit 25a24f974fa7ae31eefd0c6c689c318a19cfc2cc[m
+Author: root <suhas@live.ca>
+Date:   Fri Oct 13 01:50:57 2023 +0000
+
+    fix: refactor
+
+[33mcommit 69ba6a4f4bfb5ec7c10a476647de299cc4f23d90[m
+Merge: bf3b6a2 f30a30e
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Oct 12 21:47:07 2023 -0400
+
+    Merge pull request #11 from suhas-sunder/feature_ver_4_data_management
+    
+    refactor: add temp header
+
+[33mcommit f30a30ea2454cba59af4c2bf8b250e79d44f4ec7[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Oct 12 21:45:54 2023 -0400
+
+    refactor: add temp header
+
+[33mcommit bf3b6a2295487c4cc1bbdd9f8c19a1413622b4d5[m
+Merge: 6e31ce6 95ab53b
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Oct 12 18:03:53 2023 -0400
+
+    Merge pull request #10 from suhas-sunder/feature_ver_4_data_management
+    
+    fix: TypeScript import react error
+
+[33mcommit 95ab53b102149e476f77d5dd0fa5d88ea90a1d7e[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Oct 12 18:03:27 2023 -0400
+
+    fix: TypeScript import react error
+
+[33mcommit 6e31ce62ed489b42d85bd1dbd3d28ea48a54f09f[m
+Merge: 384652b 979eabd
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Oct 12 16:53:29 2023 -0400
+
+    Merge pull request #9 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit 979eabd891a824bb128319e8730d9c44bdd656e4[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Oct 12 16:52:46 2023 -0400
+
+    refactor: cleanup server file
+
+[33mcommit d8b507b2dcbb1265034e4eb05dba6aaa7113cb91[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Oct 12 01:30:55 2023 -0400
+
+    feat: verify user
+    
+    -Check authentication using jwt token in local storage when app loads and update authenticated state accordingly.
+
+[33mcommit 3b92d09e6f3c2e285f81dbfed5fbddf253dbbef7[m
+Merge: 4644130 7144885
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Oct 12 00:37:58 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit 4644130d9e6ecc2c33afe9040165d3b5d77c06d0[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Oct 12 00:37:43 2023 -0400
+
+    feat: dashboard & logout
+    
+    -Add  username to dashboard if jwt auth token exists in local storage. -Add logout functionality by clearing jwt token in local storage.
+
+[33mcommit 384652bd3344194172cf5ec85f7c99b139cae224[m
+Merge: 5e9bd16 7144885
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Oct 11 20:16:35 2023 -0400
+
+    Merge pull request #8 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit 714488543b3bc370cc863a9486f822b51d7a9b02[m
+Merge: 7b5aca5 5e9bd16
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Wed Oct 11 20:16:29 2023 -0400
+
+    Merge branch 'master' into feature_ver_4_data_management
+
+[33mcommit 7b5aca5c38e8452bfa016c7d11ec507f9dc29b2a[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Wed Oct 11 20:13:51 2023 -0400
+
+    feat: validation setup complete
+    
+    -Connect login and registration forms to server endpoint and confirm validation. -Re-route user to dashboard once successfully validated. Store jwt token in state and local storage.
+
+[33mcommit 2017638798c8cf0a3140d0a0d48f14c01adac58d[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Oct 10 23:50:41 2023 -0400
+
+    feat: routing & auth test
+    
+    -Add routing & redirects for login, register, and dashboard page depending on user authentication state. -Setup dummy auth button to test redirect.
+
+[33mcommit 935e1c8e511207d9e14a338c17693ba0d1288120[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Oct 10 23:31:33 2023 -0400
+
+    refactor: rename components
+    
+    -Rename component/file names for semantic reasons.
+
+[33mcommit 6d9a1e00b6c7a8888d96109a8c35518c2e726455[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Oct 7 23:38:19 2023 -0400
+
+    feat: jwt server auth
+    
+    -Add and configure routes for user account verification and dashboard. -Add middleware to validate login info and to authorize user. -Add file to generate JWT token. -Add and configure dashboard to retrieve username when valid JWT token is passed.
+
+[33mcommit 1be54ebc14badaba2011567d3d8db35f48513470[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Oct 6 13:36:03 2023 -0400
+
+    fix: form validation
+    
+    -Remove error message when inputs are focused. -Fix confirm password validation so that it properly checks against entered password. -Fix type errors.
+
+[33mcommit a4ba39b39a7af0abdd003e74201f446ea22ea6fc[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Oct 6 10:51:16 2023 -0400
+
+    feat: form validation for registration/login
+    
+    -Add/configure login & registration page. -Add JSON file to apply defaults to form label and inputs. -Add form validation to  username, email, password, and password confirmation inputs.
+
+[33mcommit 5e9bd16383f5603246331bdbd6827a4b74784c5f[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Oct 5 18:33:40 2023 -0400
+
+    Update README.md
+    
+    Proper description added.
+
+[33mcommit 3436ef8ee5494062626c9b59923f7e28e406617c[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Wed Oct 4 20:42:15 2023 -0400
+
+    feat: passport & redirect
+    
+    -Configure passport using passport-local strategy. -Implement login, logout, and dashboard re-direct depending on whether user exists in database and if username, email, and password is correct. -Add user registration, which allows users to be registered if email doesn't exist in database.
+
+[33mcommit 93de63c89c5e95c7df4d122da54ea360358a9961[m
+Merge: cb1578c 94fe9e0
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Tue Oct 3 22:02:19 2023 -0400
+
+    Merge pull request #7 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit 94fe9e0ac6f9c93ec6139ddbd7dd0e7b6e587662[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Oct 3 22:00:31 2023 -0400
+
+    feat: post request & sessions
+    
+    -Add post request for user registration and hash password using bcrypt. -Setup some conditions to check input validity that will eventually throw an error if input is wrong. -Initialize postgres session storage to be setup for remembering user data.
+
+[33mcommit 6a6756bc928ce2a0f3c2abe85038d47d9ecc9c26[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Mon Oct 2 23:33:19 2023 -0400
+
+    feat: login form
+    
+    -Add a basic login form to login page with username, email, and password options. -Create fetch request to send login intoformation to server. -Setup post request on server to retrieve login information.
+
+[33mcommit 0fa624ae0147ab0c792a09d4cd3d22db93bd9e54[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 30 20:14:23 2023 -0400
+
+    fix: TypeScript config
+
+[33mcommit 9406076745c82f91bc97ac30452109ad375977af[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 29 17:29:05 2023 -0400
+
+    feat: Transpile TS to JS
+    
+    -Re-configure and install TypeScript for node.js and express.js -Add config settings to transpile TypeScript to JS in dist folder. Configure nodemon to run the transpiled app.js file instead of directly running the app.tsx file.
+
+[33mcommit 11c9a4b138218de5c8e6fbbef3a833747a64b726[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 29 17:00:22 2023 -0400
+
+    feat: prep server for auth
+    
+    -Install dependencies to setup pg database, cookies, and user authentication
+    
+    Add some boilerplate code to app.tsx to setup auth. -Configure TypeScript to fix import errors in app.tsx.
+
+[33mcommit cb1578c08a87f047053855f7f15d03b3a9695c42[m
+Merge: cef5e65 9bb630d
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Sep 25 00:14:06 2023 -0400
+
+    Merge pull request #6 from suhas-sunder/feature_ver_4_data_management
+    
+    Feature ver 4 data management
+
+[33mcommit 9bb630d0d16cd156cd407f934b7af3576e8b339e[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Mon Sep 25 00:04:00 2023 -0400
+
+    fix: broken tests
+    
+    -Modify tests for TypingStats component since test dependencies were changed in the last update. -Add conditional to StartMenu logic that was causing MainMenu tests to crash when start button was clicked.
+
+[33mcommit cb393b704a505d60a25515b032723bf8f9d7d419[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sun Sep 24 23:36:51 2023 -0400
+
+    test: start menu
+    
+    -Add tests for checkbox elements.
+
+[33mcommit d53eeabc7f1640e42ad8e792f8477c515f7ec33c[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 22 00:42:04 2023 -0400
+
+    fix: set char status array based on text generated in menu.
+
+[33mcommit e6938e94847f3761698576efa5e3cc95e5afaa62[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 22 00:22:04 2023 -0400
+
+    fix: prevent setting names from being inserted into text.
+
+[33mcommit 9f8c79d07f12ee343db198191c94dc60fe7a5387[m
+Merge: cac9d31 b5ded0a
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 22 00:01:44 2023 -0400
+
+    Merge branch 'feature_ver_4_data_management' of https://github.com/suhas-sunder/typing-test-app into feature_ver_4_data_management
+
+[33mcommit cac9d310cecb38c060bdab89223b73db9b8cd397[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 21 23:51:05 2023 -0400
+
+    feat: apply test settings
+    
+    -Add feature to manipulate text based on test settings selected from main menu.
+
+[33mcommit b5ded0ae0c2b84f9eae1846bad290c47faf30cce[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 21 23:51:05 2023 -0400
+
+    feat: apply test settings
+    
+    -Add feature to manipulate text based on test settings selected from main menu.
+
+[33mcommit 442927d97b989cd89e495355137188a941871278[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Wed Sep 20 21:59:24 2023 -0400
+
+    refactor: test options
+    
+    -Render a map array of options for test settings instead of writing each one manually.
+
+[33mcommit 6537dd18a2c414b2102b48f676cfdb2f9d0220b7[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Sep 19 21:16:45 2023 -0400
+
+    feat: select test time
+    
+    -Configure radio buttons in start menu so that user can select test time. -Display user selected test time on test stats menu. -Display countdown time in minutes and seconds instead of just seconds.
+
+[33mcommit bc9028f826ee34934d6643f3db825dfeac4bd2ff[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sun Sep 17 14:46:08 2023 -0400
+
+    refactor: minor improvements to code
+
+[33mcommit cef5e65d59507ae8782ecf44e8e5af5e38f1faf1[m
+Merge: 43b0b7e 6ce9803
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sun Sep 17 01:33:08 2023 -0400
+
+    Merge pull request #5 from suhas-sunder/feature_ver_3_typing_test
+    
+    Feature ver 3 typing test
+
+[33mcommit 6ce9803c29e3ef414877acbee02f1dcb56ea215b[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sun Sep 17 01:30:23 2023 -0400
+
+    test: test 13 components
+    
+    -Add tests to 13 components. -Test if each component renders all important elements on screen. -Test if components behave as intended.
+
+[33mcommit a312b298bd47992186265bfad5e1c29572c411fd[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 16 14:53:00 2023 -0400
+
+    refactor: remove rows
+    
+    -Consolidate the two separate functions that handle the removal of rows so that it can be used by both the keydown listener and window resize listener.
+
+[33mcommit 1eaaf1c09d1026b77e6e40535f653514d7e820b1[m
+Merge: ebfc84d 48f91de
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 15 22:34:16 2023 -0400
+
+    Merge branch 'feature_ver_3_typing_test' of https://github.com/suhas-sunder/typing-test-app into feature_ver_3_typing_test
+
+[33mcommit ebfc84dbee69d90685ea71b96ccd39e096f893b2[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 15 22:33:17 2023 -0400
+
+    feat: test calculations
+    
+    -Calculate, track, and display correct values for  wpm, cpm, and accuracy. -Add bank test files for commponents that do not have one yet.
+
+[33mcommit 48f91de9c0547d8ac15f175e7d2dcc92ff41e906[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 15 22:33:17 2023 -0400
+
+    feat: test calculations
+    
+    -Calculate, track, and display correct values for  wpm, cpm, and accuracy.
+
+[33mcommit 43b0b7e7180d3468a56ad9389b24e11a2e208150[m
+Merge: e1da86d 1980630
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Fri Sep 15 01:28:59 2023 -0400
+
+    Merge pull request #4 from suhas-sunder/feature_ver_3_typing_test
+    
+    Feature ver 3 typing test
+
+[33mcommit 1980630f00ff8cadc1355457aa2edc3421012cfd[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Fri Sep 15 01:25:56 2023 -0400
+
+    feat: typing logic complete
+    
+    -Refactor row elimination logic in window resize function to optimize code. -Add fully funciontal backspace logic so that user can delete all characters as needed.
+
+[33mcommit ab425eea50798b0529a336775fbed8bcd82564e8[m
+Merge: 77b47b3 42edd0d
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 23:49:31 2023 -0400
+
+    Merge branch 'feature_ver_3_typing_test' of https://github.com/suhas-sunder/typing-test-app into feature_ver_3_typing_test
+
+[33mcommit 77b47b3f78b490aeb6f5c9cc30c807bf6e05c2ad[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 23:48:37 2023 -0400
+
+    fix: line removal logic
+    
+    -Fix bug where typing after resizing window adds additional characters back into view. The bug is caused by the shared logic between typing logic and resize logic. Simple fix is to separate the logic that handles the removal of additional chars/lines from view.
+
+[33mcommit 42edd0d7e76ee89ce56a52a005da2e729b0d726e[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 23:48:37 2023 -0400
+
+    fix: line removal logic
+    
+    -Fix bug where typing after resizing window adds additional charcters back into view. The bug is caused by the shared logic between typing logic and resize logic. Simple fix is to separate the logic that handles the removeal of additional chars/lines from view.
+
+[33mcommit 99b458c24f17875eaec89b8ce74072e400a0f9cb[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 23:37:06 2023 -0400
+
+    feat: window resize
+    
+    -Add logic that removes additional unnecessary lines of text when window is resized.
+
+[33mcommit 18313421ac7076ad311a56300162ce9ac50917cd[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 20:43:15 2023 -0400
+
+    feat: hide line logic
+    
+    -Add logic to hide first line of text when user has completed typing two lines and has entered the first character of the third line.
+
+[33mcommit 86577a8381d588e03ee9857b1f0ce207c2086a0e[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 14:38:43 2023 -0400
+
+    styling: main menu
+    
+    -Add styling to all checkbox elements. -Use CSS grid to add four columns for checkbox items. -Make buttons rounded.
+
+[33mcommit 3bf0281fc219efc7d4b9f1853947a4dd921e6ee6[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 14 00:45:58 2023 -0400
+
+    feat: test menu
+    
+    -Add main menu component. -Add menu options form component. -Add test settings to form component. -Add navigation back to main menu from test page. -Add restart test and main menu buttons to game over menu.
+
+[33mcommit 7f04bb74b4460e50f25b4429ce2f75421ae71881[m
+Merge: efffa97 8fa557e
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Wed Sep 13 00:59:25 2023 -0400
+
+    Merge branch 'feature_ver_3_typing_test' of https://github.com/suhas-sunder/typing-test-app into feature_ver_3_typing_test
+
+[33mcommit efffa970f3cc653e4203250e6204850f75689eab[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Wed Sep 13 00:28:56 2023 -0400
+
+    fix: timer issue
+    
+    -Add state to detect first valid user input to signal timer start. -Track cursor position using state instead of ref so that cursor updates properly when test is reset. -Use combination of timer state and fist input detected state to make sure timer isn't called multiple times or stops running after first valid user input. -Use callback hook to memoize function that ends test. This prevents useEffect from running every time the state changes in TypingWindow component.
+
+[33mcommit 8fa557e03101ada6701968c551661707e678368f[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Wed Sep 13 00:28:56 2023 -0400
+
+    fix: timer issue
+    
+    -Add state to detect first valid user input to signal timer start. -Track cursor position using state instead of ref so that cursor updates properly when test is reset. -Use combination of timer state and fist input detected state to make sure timer isn't called multiple times or stops running after first valid user input.
+
+[33mcommit 18c36bd18ddef1cf12a2166ebbd8706daadc6a72[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Sep 12 23:40:24 2023 -0400
+
+    feat: test timer
+    
+    -Add a seconds timer to TestStats and render time on screen. -Add logic to start timer only when user starts typing for the first time. -Reset clock and end test when test has reached time limit.
+
+[33mcommit 10fcce3c05e6330e53edd4820f44462410117e21[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Sep 12 22:15:28 2023 -0400
+
+    refactor: typing interface
+    
+    -Add new component called TypingWindow that manages TextBox  and TypingStats. -Move state from TextBox component to TypingWindow component. -Move dummyText to TypingWindow component. -Update character input validity in TypingWindow component instead of TextBox component.
+
+[33mcommit 024cf293d6a864d5c4fab34af681af835228acc4[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Sep 12 22:10:45 2023 -0400
+
+    feat: display stats
+    
+    -Add and render placeholders for WPM, CPM, % Accuracy, and timer. -Add logic to calculate WPM. -Store correct chars, mistakes, and timer value to state.
+
+[33mcommit 4300276becf9c3284d480a7ec4e0e4d684f36c79[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Sep 12 17:56:21 2023 -0400
+
+    refactor: navigation
+    
+    -Refactor links in footer component. -Add copyright text to bottom of footer.
+
+[33mcommit 272371a65e8fb47f24aea586c8cdbef24e070827[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Tue Sep 12 17:53:30 2023 -0400
+
+    feat: keyboard inputs
+    
+    -Add listener to window for keyboard events. -Track state of character status and create a reference to length of string displayed and cursor location. -Add input status to state depending on keyboard inputs compared to characters in textbox. -Update styling of character elements on screen depending on status updates in state.
+
+[33mcommit ce2431882a310f77edcf601f1b90e1a43f33c925[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Mon Sep 11 20:18:34 2023 -0400
+
+    feat: TextBox setup
+    
+    Add template for components relevant to home page. -Add TextBox to home page. -Add basic layout to text box. -Add test files for components relevant to home page.
+
+[33mcommit e1da86da337df6f5cbe2d8aebc9ee6ac2937bac5[m
+Merge: cd5d9b0 262a3f1
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Mon Sep 11 12:32:51 2023 -0400
+
+    Merge pull request #3 from suhas-sunder/feature_ver_2_routing
+    
+    Feature ver 2 routing
+
+[33mcommit 262a3f18bef812a2f79908b9eca94a981afbbaf1[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Mon Sep 11 00:01:58 2023 -0400
+
+    feat: basic nagivation
+    
+    -Add logo, links, and account links to nav-bar and footer components. -Add logic to nav-bar styling to toggle between desktop and mobilve nav bar on screen resize. -Display basic footer with links. -Add a checklist of tests to be configured for each navigation component (to be completed later).
+
+[33mcommit 333f0d9c5c2f0be990306752987a15bd67707731[m
+Merge: 8267a27 f318b56
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sun Sep 10 00:02:56 2023 -0400
+
+    Merge branch 'feature_ver_2_routing' of https://github.com/suhas-sunder/typing-test-app into feature_ver_2_routing
+
+[33mcommit 8267a271f0db6f327f58a38aa7b361601fb6a3b8[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sun Sep 10 00:01:18 2023 -0400
+
+    feat: setup routing & tests
+    
+    -Add routing to App.tsx that redirects to appropriate component/view. -Add NavLinks to navigation components with styling so that active links are underlined. -Setup and configure ViTest to work with React Testing Library. -Add test files for all navigation elements and check if all links render on the page.
+
+[33mcommit f318b56abc096ec5931f9b62f5058d8e8f7d7c02[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sun Sep 10 00:01:18 2023 -0400
+
+    feat: setup routing & tests
+    
+    -Add routing to App.tsx that redirects to appropriate component/view. -Add NavLinks to navigation components with styling so that active links are underlined. -Setup and configure ViTest to work with React Testing Library. -Add test files for all navigation elements and check if all links render on the page.
+
+[33mcommit bbeb17ca9ab4ed76f66057c9b6e5db9ee7edb21f[m
+Merge: 955e3df c780b37
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 18:08:49 2023 -0400
+
+    Merge branch 'feature_ver_2_routing' of https://github.com/suhas-sunder/typing-test-app into feature_ver_2_routing
+
+[33mcommit 955e3df562bf2522d5fe0ada90c8106e0d8ddc62[m
+Merge: d3d7625 92e975c
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 18:07:31 2023 -0400
+
+    fix: readme
+
+[33mcommit cd5d9b0ddfcbdca20d8edcc062e9ab89145a0218[m
+Merge: 92e975c c780b37
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Sep 9 18:07:44 2023 -0400
+
+    Merge pull request #2 from suhas-sunder/feature_ver_2_routing
+    
+    fix: readme
+
+[33mcommit c780b37335e2dc9b1b1bd314686e28b91fe71c32[m
+Merge: d3d7625 92e975c
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 18:07:31 2023 -0400
+
+    fix: readme
+
+[33mcommit d3d7625ce3790a6f81113dde7b48bc0ac9d4ef46[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 18:05:57 2023 -0400
+
+    fix: readme
+
+[33mcommit 92e975cb44af742e7d943f9ca0beb9c2f55a0f4d[m
+Merge: 378e467 de447d9
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Sat Sep 9 18:04:31 2023 -0400
+
+    Merge pull request #1 from suhas-sunder/feature_ver_1
+    
+    Feature ver 1
+
+[33mcommit de447d91090984461746171b3049a8586c49cae3[m
+Merge: 01ffd98 378e467
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 18:03:48 2023 -0400
+
+    fix: readme
+
+[33mcommit 01ffd984dd1e95156793fa87a6f1f3eabccf0d2e[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 18:01:35 2023 -0400
+
+    feat: initial setup complete
+    
+    Complete initial setup of both client and server folders. Plan out a file structure for the final project.
+
+[33mcommit 5728c17e5a3e63ef804186f76b84da920d27f8d6[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Sat Sep 9 17:53:25 2023 -0400
+
+    feat: complete initial setup
+
+[33mcommit 36a99b1c12ba2a3346baee31bcb6366dd8ce3b96[m
+Merge: edc6b83 8acd73a
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 7 23:26:40 2023 -0400
+
+    Merge branch 'feature_ver_1' of https://github.com/suhas-sunder/typing-test-app into feature_ver_1
+
+[33mcommit edc6b837ca684fd1f88d20fbdc59408dcb94d9ba[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 7 23:24:37 2023 -0400
+
+    re-install axios in client folder
+
+[33mcommit 8acd73a323fa314e407a95f92c72a03b08c8bc4b[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 7 23:24:37 2023 -0400
+
+    install axios
+
+[33mcommit d26fa33ae431edccf781d2506a5b1ac7fa4edef9[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 7 21:03:52 2023 -0400
+
+    feat: server init
+    
+    -Initialize files for server such as server.tsx, database.sql, etc. -Install nodemon. -Install Express. -Install dotenv. -Install gitnore. Install morgan middleware. -Configure nodemon and server.tsx to listen to port when run.
+
+[33mcommit 378e4676f6e30e4b010a5e80d945e42396d5593a[m
+Author: Suhas Sunder <suhas@live.ca>
+Date:   Thu Sep 7 16:06:01 2023 -0400
+
+    Update README.md
+
+[33mcommit 3e9a14ff725e3610e1f451fbdcd477d510272077[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 7 16:02:46 2023 -0400
+
+    feat: initial setup
+    
+    -Add client folder and move relevant files to folder. -Add server folder. -Install React Router Dom. -Install Vitest.-Install React Testing Library -Install and configure TailwindCSS. -Install Axios. -Create folder structure for assets, components, hooks, pages, and api.
+
+[33mcommit b1a015dad79bb7c9871add1ab3c4d088340b8200[m
+Author: suhas-sunder <77464593+suhas-sunder@users.noreply.github.com>
+Date:   Thu Sep 7 14:40:45 2023 -0400
+
+    initial commit

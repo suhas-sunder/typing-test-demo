@@ -1,0 +1,51 @@
+.image {
+  filter: invert(26%) sepia(60%) saturate(2946%) hue-rotate(191deg)
+    brightness(94%) contrast(98%); /* Sky 700 */
+}
+
+.image-theme {
+  filter: invert(14%) sepia(75%) saturate(3726%) hue-rotate(321deg)
+    brightness(104%) contrast(94%); /* Pink 700 */
+}
+
+.header-dashboard {
+  animation: fadeTransform 0.2s ease-in forwards;
+}
+
+.fade-in {
+  animation: fadeIn 0.2s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 1%;
+  }
+
+  100% {
+    opacity: 100%;
+  }
+}
+
+@media (min-width: 640px) {
+  @keyframes fadeTransform {
+    0% {
+      opacity: 1%;
+      transform: translateY(-5em);
+    }
+
+    100% {
+      opacity: 100%;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes padEase {
+    0% {
+      padding-bottom: 30%;
+    }
+
+    100% {
+      padding-bottom: auto;
+    }
+  }
+}
