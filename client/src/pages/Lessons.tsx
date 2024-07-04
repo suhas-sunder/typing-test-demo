@@ -4,7 +4,7 @@ import loadable from "@loadable/component";
 import LessonMenuData from "../data/LessonMenuData";
 
 const SidebarMenu = loadable(
-  () => import("../components/ui/navigation/SidebarMenu"),
+  () => import("../components/navigation/SidebarMenu"),
 );
 
 export default function Lessons() {

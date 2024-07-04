@@ -11,8 +11,8 @@ import { Helmet } from "react-helmet-async";
 import useMetaData from "./components/hooks/useMetaData";
 import useLoadAnimation from "./components/hooks/useLoadAnimation";
 
-const NavBar = loadable(() => import("./components/ui/navigation/NavBar"));
-const Footer = loadable(() => import("./components/ui/navigation/Footer"));
+const NavBar = loadable(() => import("./components/navigation/NavBar"));
+const Footer = loadable(() => import("./components/navigation/Footer"));
 const CookiesPolicy = loadable(() => import("./pages/CookiesPolicy"));
 const TermsOfService = loadable(() => import("./pages/TermsOfService"));
 const PrivacyPolicy = loadable(() => import("./pages/PrivacyPolicy"));

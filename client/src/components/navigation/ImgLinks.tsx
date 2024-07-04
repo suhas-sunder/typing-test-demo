@@ -6,7 +6,7 @@ import styles from "./styles/ImgLinks.module.css";
 import loadable from "@loadable/component";
 import { useEffect } from "react";
 
-const SparkleAnim = loadable(() => import("../SparkleAnim"));
+const SparkleAnim = loadable(() => import("../ui/SparkleAnim"));
 
 interface PropType {
   linkData: {

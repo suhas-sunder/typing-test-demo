@@ -3,8 +3,8 @@ import styles from "./styles/NavBar.module.css";
 import loadable from "@loadable/component";
 import { useLayoutEffect } from "react";
 
-const LogoText = loadable(() => import("../../svg/LogoText"));
-const LogoTextEnd = loadable(() => import("../../svg/LogoTextEnd"));
+const LogoText = loadable(() => import("../svg/LogoText"));
+const LogoTextEnd = loadable(() => import("../svg/LogoTextEnd"));
 
 interface PropTypes {
   setShowMobileMenu: (value: boolean) => void;

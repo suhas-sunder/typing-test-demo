@@ -3,7 +3,7 @@ import { render, screen } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
 import "@testing-library/jest-dom/vitest";
 import Footer from "../Footer";
-import mockAllAPI from "../../../../mocks/api/mockAllAPI";
+import mockAllAPI from "../../../mocks/api/mockAllAPI";
 
 mockAllAPI(); //Mocks all api with no custom mock response
 interface PropType {

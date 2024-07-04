@@ -6,7 +6,7 @@ import HomePgLinks from "../data/HomePgLinks";
 import useLoadAnimation from "../components/hooks/useLoadAnimation";
 import HeaderDashboard from "../components/layout/HeaderDashboard";
 import SpeedTest from "../components/layout/SpeedTest";
-import ImgLinks from "../components/ui/navigation/ImgLinks";
+import ImgLinks from "../components/navigation/ImgLinks";
 
 const LandingPage = loadable(() => import("../components/layout/LandingPage"));
 

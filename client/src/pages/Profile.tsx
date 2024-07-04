@@ -11,7 +11,7 @@ const ProfileHeaderDashboard = loadable(
   () => import("../components/layout/ProfileHeaderDashboard"),
 );
 const LogoutBtn = loadable(
-  () => import("../components/ui/navigation/LogoutBtn"),
+  () => import("../components/navigation/LogoutBtn"),
 );
 const ProfileStats = loadable(
   () => import("../components/layout/ProfileStats"),
@@ -29,7 +29,7 @@ const ProfileAccount = loadable(
   () => import("../components/layout/ProfileAccount"),
 );
 const SidebarMenu = loadable(
-  () => import("../components/ui/navigation/SidebarMenu"),
+  () => import("../components/navigation/SidebarMenu"),
 );
 
 function Profile() {

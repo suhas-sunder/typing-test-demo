@@ -1,17 +1,17 @@
 import { useEffect, useLayoutEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import styles from "./styles/NavBar.module.css";
-import useAuth from "../../hooks/useAuth";
-import GetTotalScore from "../../../utils/requests/GetTotalScore";
-import GetSavedImages from "../../../utils/requests/GetSavedImages";
-import useImg from "../../hooks/useImg";
-import useStats from "../../hooks/useStats";
-import kittenWebp from "../../../assets/images/kitten.webp";
-import kittenJpg from "../../../assets/images/kitten.jpg";
+import useAuth from "../hooks/useAuth";
+import GetTotalScore from "../../utils/requests/GetTotalScore";
+import GetSavedImages from "../../utils/requests/GetSavedImages";
+import useImg from "../hooks/useImg";
+import useStats from "../hooks/useStats";
+import kittenWebp from "../../assets/images/kitten.webp";
+import kittenJpg from "../../assets/images/kitten.jpg";
 
 import loadable from "@loadable/component";
 
-const Icon = loadable(() => import("../../../utils/other/Icon"));
+const Icon = loadable(() => import("../../utils/other/Icon"));
 const Logo = loadable(() => import("./Logo"));
 const LogoutBtn = loadable(() => import("./LogoutBtn"));
 

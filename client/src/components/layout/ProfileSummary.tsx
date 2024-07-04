@@ -8,7 +8,7 @@ import useLoadAnimation from "../hooks/useLoadAnimation";
 import kittenWebp from "../../assets/images/kitten.webp";
 import kittenJpg from "../../assets/images/kitten.jpg";
 
-const TripleImgLinks = loadable(() => import("../ui/navigation/ImgLinks"));
+const TripleImgLinks = loadable(() => import("../navigation/ImgLinks"));
 
 //Used by Profile.tsx component
 export default function ProfileSummary() {
